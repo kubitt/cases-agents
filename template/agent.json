@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "name": "",
+  "slug": "",
+  "description": "",
+  "category": "",
+  "tags": [],
+
+  "source": {
+    "platform": "",
+    "url": "",
+    "original_name": "",
+    "cloned_at": "",
+    "cloned_by": "clone-agent skill"
+  },
+
+  "soul": {
+    "system_prompt": "",
+    "prompt_source": "original | reconstructed",
+    "language": "ru | en",
+    "notes": ""
+  },
+
+  "integrations": {
+    "required": [],
+    "optional": [],
+    "missing_in_ascn": [],
+    "mapping": {}
+  },
+
+  "automations": [
+    {
+      "type": "scheduled | trigger | manual",
+      "description": "",
+      "trigger_details": "",
+      "steps": []
+    }
+  ],
+
+  "tools": [],
+
+  "channels": ["chat"],
+
+  "deploy": {
+    "status": "raw",
+    "workspace_id": "",
+    "deployed_at": "",
+    "deploy_prompt": ""
+  }
+}
