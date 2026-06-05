@@ -6,14 +6,23 @@
   "category": "Content",
   "description": "SEO-копирайтер: пишет статьи под ключевые слова, оптимизирует существующий контент, анализирует конкурентов.",
   "integrations": {
-    "required": ["Google Search", "Google Docs"],
+    "required": [
+      "Google Search",
+      "Google Docs"
+    ],
     "optional": [],
     "missing_in_ascn": []
   },
   "deploy": {
     "workspace_id": "ws-kqkRs2YpHmpDo2eugMJYyg",
-    "status": "raw",
-    "deployed_at": null,
+    "status": "deployed_v2",
+    "deployed_at": "2026-06-05",
     "session_id": null
-  }
+  },
+  "knowledge": {
+    "identity_md_bytes": 1072,
+    "soul_md_bytes": 3048,
+    "user_md_bytes": 581
+  },
+  "version": "v2"
 }

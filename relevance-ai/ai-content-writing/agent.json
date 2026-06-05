@@ -6,14 +6,23 @@
   "category": "Content",
   "description": "Из одной идеи — полный контент-пакет: статья, посты LinkedIn/X/Telegram, сохраняет в Google Docs.",
   "integrations": {
-    "required": ["Google Search", "Google Docs"],
+    "required": [
+      "Google Search",
+      "Google Docs"
+    ],
     "optional": [],
     "missing_in_ascn": []
   },
   "deploy": {
     "workspace_id": "ws-dq4ESvumUYqhfDLsHgJHgv",
-    "status": "raw",
-    "deployed_at": null,
+    "status": "deployed_v2",
+    "deployed_at": "2026-06-05",
     "session_id": null
-  }
+  },
+  "knowledge": {
+    "identity_md_bytes": 884,
+    "soul_md_bytes": 2480,
+    "user_md_bytes": 540
+  },
+  "version": "v2"
 }

@@ -6,14 +6,22 @@
   "category": "Sales",
   "description": "Голосовой интерфейс к CRM в Google Sheets. Добавляй сделки, обновляй статусы, получай сводку — через чат.",
   "integrations": {
-    "required": ["Google Sheets"],
+    "required": [
+      "Google Sheets"
+    ],
     "optional": [],
     "missing_in_ascn": []
   },
   "deploy": {
     "workspace_id": "ws-HbMDAAZiVJ8pBkah9Z8an8",
-    "status": "raw",
-    "deployed_at": null,
+    "status": "deployed_v2",
+    "deployed_at": "2026-06-05",
     "session_id": null
-  }
+  },
+  "knowledge": {
+    "identity_md_bytes": 1172,
+    "soul_md_bytes": 2458,
+    "user_md_bytes": 784
+  },
+  "version": "v2"
 }

@@ -5,14 +5,22 @@
   "category": "Operations",
   "description": "Финансовый ассистент для МСБ. Учёт доходов/расходов, P&L отчёты, cash flow — всё через чат в Google Sheets.",
   "integrations": {
-    "required": ["Google Sheets"],
+    "required": [
+      "Google Sheets"
+    ],
     "optional": [],
     "missing_in_ascn": []
   },
   "deploy": {
     "workspace_id": "ws-fYjxMYbsL2oneJiXQUpYdV",
-    "status": "raw",
-    "deployed_at": null,
+    "status": "deployed_v2",
+    "deployed_at": "2026-06-05",
     "session_id": null
-  }
+  },
+  "knowledge": {
+    "identity_md_bytes": 1016,
+    "soul_md_bytes": 2710,
+    "user_md_bytes": 658
+  },
+  "version": "v2"
 }

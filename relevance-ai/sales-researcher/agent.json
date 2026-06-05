@@ -6,14 +6,22 @@
   "category": "Sales",
   "description": "B2B-разведчик: собирает полное досье на компанию и контакт за 2-3 минуты. Для подготовки к звонку.",
   "integrations": {
-    "required": ["Google Search"],
+    "required": [
+      "Google Search"
+    ],
     "optional": [],
     "missing_in_ascn": []
   },
   "deploy": {
     "workspace_id": "ws-fCxYmZckyHbadXQgQ5vMfr",
-    "status": "raw",
-    "deployed_at": null,
+    "status": "deployed_v2",
+    "deployed_at": "2026-06-05",
     "session_id": null
-  }
+  },
+  "knowledge": {
+    "identity_md_bytes": 950,
+    "soul_md_bytes": 2689,
+    "user_md_bytes": 561
+  },
+  "version": "v2"
 }
