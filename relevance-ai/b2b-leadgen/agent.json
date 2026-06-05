@@ -1,0 +1,19 @@
+{
+  "name": "B2B Leadgen",
+  "slug": "b2b-leadgen",
+  "source": "relevance-ai",
+  "source_listing": "https://marketplace.relevanceai.com/listing/42f2cab0-71d6-41ca-b71e-fbaa55dfc53a",
+  "category": "Sales",
+  "description": "Полный цикл B2B аутрича: находит компании → собирает email → пишет персональные письма → отправляет через Gmail.",
+  "integrations": {
+    "required": ["Google Search", "Gmail", "Google Sheets"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-YdsreozaPWuiQkVDdReSY8",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

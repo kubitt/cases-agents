@@ -1,0 +1,19 @@
+{
+  "name": "Sales Researcher",
+  "slug": "sales-researcher",
+  "source": "relevance-ai",
+  "source_listing": "https://marketplace.relevanceai.com/listing/4b454347-0656-4fee-9c15-8fb2f2713424",
+  "category": "Sales",
+  "description": "B2B-разведчик: собирает полное досье на компанию и контакт за 2-3 минуты. Для подготовки к звонку.",
+  "integrations": {
+    "required": ["Google Search"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-fCxYmZckyHbadXQgQ5vMfr",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

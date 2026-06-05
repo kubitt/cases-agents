@@ -1,0 +1,19 @@
+{
+  "name": "AI Content Writing Team",
+  "slug": "ai-content-writing",
+  "source": "relevance-ai",
+  "source_listing": "https://marketplace.relevanceai.com/listing/e891ae00-c83a-4624-985a-afed049c1228",
+  "category": "Content",
+  "description": "Из одной идеи — полный контент-пакет: статья, посты LinkedIn/X/Telegram, сохраняет в Google Docs.",
+  "integrations": {
+    "required": ["Google Search", "Google Docs"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-dq4ESvumUYqhfDLsHgJHgv",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

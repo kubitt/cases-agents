@@ -1,0 +1,18 @@
+{
+  "name": "Commercial Offer Generator",
+  "slug": "commercial-offer",
+  "source": "native",
+  "category": "Sales",
+  "description": "Генератор коммерческих предложений. Описываешь сделку — агент создаёт красивое КП и сохраняет в Google Doc.",
+  "integrations": {
+    "required": ["Google Docs"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-m48fMBCtd3RqDckSaN2JUr",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

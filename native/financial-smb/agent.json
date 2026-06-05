@@ -1,0 +1,18 @@
+{
+  "name": "Financial Agent for SMB",
+  "slug": "financial-smb",
+  "source": "native",
+  "category": "Operations",
+  "description": "Финансовый ассистент для МСБ. Учёт доходов/расходов, P&L отчёты, cash flow — всё через чат в Google Sheets.",
+  "integrations": {
+    "required": ["Google Sheets"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-fYjxMYbsL2oneJiXQUpYdV",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "TG SMM",
+  "slug": "tg-smm",
+  "source": "native",
+  "category": "Marketing",
+  "description": "SMM-агент для Telegram-канала. Пишет посты и публикует их — по команде или по расписанию.",
+  "integrations": {
+    "required": ["Telegram"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-YwRwXx5USGriYXqsCLapPo",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}

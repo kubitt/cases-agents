@@ -1,0 +1,19 @@
+{
+  "name": "SEO Copywriter",
+  "slug": "seo-copywriter",
+  "source": "gumloop",
+  "source_listing": "https://www.gumloop.com/templates/blog-seo-audit-and-optimizer-agent",
+  "category": "Content",
+  "description": "SEO-копирайтер: пишет статьи под ключевые слова, оптимизирует существующий контент, анализирует конкурентов.",
+  "integrations": {
+    "required": ["Google Search", "Google Docs"],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-kqkRs2YpHmpDo2eugMJYyg",
+    "status": "raw",
+    "deployed_at": null,
+    "session_id": null
+  }
+}
