@@ -36,6 +36,7 @@
 | 28 | [SEO-копирайтер](28-seo-copywriter/) | community |
 | 29 | [Market Radar](29-market-radar/) | community |
 | 30 | [Майнер болей аудитории (Pain Miner)](30-pain-miner/) | premium |
+| 31 | [Нативный лидоген из обсуждений](31-native-comment-leadgen/) | community |
 
 ## Форматы
 
