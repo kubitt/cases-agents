@@ -5,6 +5,8 @@ description: Analyze Google Maps reviews for collected leads and generate sales 
 
 # Review analyzer
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: for each lead, fetch recent negative/mixed reviews, identify concrete pain points, and suggest a sales angle tied to the user's offer — so a salesperson can open a conversation with something specific, not generic.
 
 ## Algorithm

@@ -1,5 +1,7 @@
 # Automations: Google Maps Lead Hunter
 
+> This file lives in the agent's workspace. The agent reads it whenever it creates or edits cron tasks. You can change schedules and wording — the agent will follow the updated version.
+
 ## Cron tasks
 
 None by default. This is a Project-archetype agent — searches run on the user's command, not on a schedule.

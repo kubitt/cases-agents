@@ -1,5 +1,7 @@
 # ONBOARDING — Google Maps Lead Hunter
 
+> First-run setup script. The agent follows it step by step on first contact. You normally don't edit this file after setup.
+
 First-run script. Execute strictly step by step, ONE question per message. Track progress in memory: `onboarding_step=N`. If the user skips a step — set the default, note "clarify later" in USER.md, move on. After an interrupted session, resume from the saved step.
 
 ## Step 0. Greeting
