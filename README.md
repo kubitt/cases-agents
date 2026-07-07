@@ -35,8 +35,9 @@
 | 27 | [Репурпозинг контента по платформам](27-content-repurposer/) | community |
 | 28 | [SEO-копирайтер](28-seo-copywriter/) | community |
 | 29 | [Market Radar](29-market-radar/) | community |
+| 30 | [Майнер болей аудитории (Pain Miner)](30-pain-miner/) | premium |
 
 ## Форматы
 
-- **premium** (01–18) — полный пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING, skills/, knowledge/)
-- **community** (19–28) — базовый пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING)
+- **premium** (01–18, 30) — полный пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING, skills/, knowledge/)
+- **community** (19–29) — базовый пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING)
