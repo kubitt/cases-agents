@@ -1,19 +1,22 @@
-# Нативный лидоген из обсуждений / Native Comment Finder
+# Native Comment Finder
 
-**Native Comment Finder**
+Finds fresh public posts where people describe a problem your product solves, writes a ready-to-paste native comment, and hands you a card: where to post + the text + a community-rules check. You post manually — no spam, no bans.
 
-Находит свежие посты, где люди описывают проблему вашего продукта → пишет готовый нативный комментарий → отдаёт карточку «где постить + текст + правила сообщества». Постите вручную, без спама и банов.
+## Integrations
 
-## Интеграции
+**Required:** Google Search (web search)
+**Recommended:** Telegram (cards & digests), Exa or Apify MCP (search volume)
 
-**Обязательные:** Google Search (веб-поиск)
-**Рекомендуемые:** Telegram (карточки и сводки), Exa или Apify MCP (объём поиска)
-
-## Структура
+## Structure
 
 ```
 workspace/
-├── IDENTITY.md    # роль, функции, границы
-├── SOUL.md        # характер + правила безопасности
-└── ONBOARDING.md  # онбординг пользователя
+├── IDENTITY.md                          # role, focus, boundaries
+├── SOUL.md                              # values, safety rules, first-run protocol
+├── ONBOARDING.md                        # user onboarding template
+├── knowledge/
+│   ├── DOMAIN.md                        # what counts as a lead + ICP scoring rubric
+│   └── SOURCES.md                       # buying-signal markers + source recipes
+└── skills/
+    └── native-comment-finder/SKILL.md   # full operating pipeline
 ```

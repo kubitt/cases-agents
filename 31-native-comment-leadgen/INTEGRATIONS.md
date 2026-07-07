@@ -1,14 +1,14 @@
-# Интеграции — Native Comment Finder
+# Integrations — Native Comment Finder
 
-## Обязательные
+## Required
 
-- **Google Search** — веб-поиск обсуждений (доступен из коробки)
+- **Google Search** — web search for discussions (available out of the box)
 
-## Рекомендуемые
+## Recommended
 
-- **Telegram** — доставка карточек лидов и ежедневной сводки, одобрение
-- **Exa / Apify MCP** — усиление поиска (Reddit, X, форумы), больше найденных обсуждений
+- **Telegram** — deliver lead cards and the daily digest, approve drafts
+- **Exa / Apify MCP** — stronger search (Reddit, X, forums), more discussions found
 
-## Деградация без интеграций
+## Degradation without integrations
 
-Со встроенным веб-поиском агент работает сразу, но объём находок ограничен (Reddit для встроенного поиска недоступен). Без Telegram карточки показываются прямо в чате. Подключение Exa или Apify заметно повышает поток лидов. Постинг комментариев всегда ручной — агент не публикует сам.
+With built-in web search the agent works immediately, but volume is limited (Reddit is not reachable by the built-in crawler). Without Telegram, cards are shown in chat. Connecting Exa or Apify noticeably increases lead flow. Posting is always manual — the agent never publishes on its own.

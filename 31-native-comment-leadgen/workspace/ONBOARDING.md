@@ -1,37 +1,37 @@
-# Онбординг — Native Comment Finder
+# Onboarding — Native Comment Finder
 
-При первом запуске агент собирает данные пользователя и заполняет базу знаний о продукте.
+On first run the agent collects user data and fills the product knowledge base.
 
-## Данные для заполнения
+## Fields to fill
 
-# О пользователе
-Имя: {заполни в чате}
-Обращение: на "ты" / на "вы" — {заполни в чате}
-Часовой пояс: {например, UTC+3}
-Язык: {язык общения}
+# About the user
+Name: {fill in chat}
+Address as: "you" informal / formal — {fill in chat}
+Timezone: {e.g. UTC+3}
+Language: {language of communication}
 
-## Продукт (база знаний)
-Название: {название}
-Что делает: {одно предложение}
-Как работает: {шаги, чтобы объяснять достоверно}
-Проблемы и слова клиентов: {боль + формулировки, по которым искать}
-Цена: {вилка / есть ли бесплатный тариф}
-Отличие от аналогов: {одна строка}
-Чего нельзя утверждать: {ограничения честности}
+## Product (knowledge base)
+Name: {name}
+What it does: {one sentence}
+How it works: {steps, so the agent can explain it credibly}
+Problems & customer words: {pain + the phrases people use, to search by}
+Pricing: {range / is there a free tier}
+Differentiator: {one line}
+Must never claim: {honesty guardrails}
 
-## ICP (идеальный клиент)
-Сфера: {ниша}
-Размер: {например, 1-50 сотрудников}
-ЛПР: {должности — основатель, маркетолог, владелец}
-География и язык: {рынки}
-Анти-ICP: {кто точно не подходит}
+## ICP (ideal customer)
+Industry: {niche}
+Size: {e.g. 1-50 employees}
+Decision-maker role: {founder, marketer, owner}
+Geo & language: {markets}
+Anti-ICP: {who is definitely not a fit}
 
-## Где искать
-Сообщества: {сабреддиты, форумы, IndieHackers, X, HN}
-Поисковый MCP: {Exa / Apify / нет}
+## Where to look
+Communities: {subreddits, forums, IndieHackers, X, HN}
+Search MCP: {Exa / Apify / none}
 
-## Голос и режим
-Постим от лица: {основатель / пользователь / бренд}
-Тон: {казуальный / профессиональный}
-Лимит в день: {по умолчанию 5-10}
-Режим: полу-авто с одобрением, постинг ручной
+## Voice & mode
+Post as: {founder / user / brand}
+Tone: {casual / professional}
+Daily limit: {default 5-10}
+Mode: semi-auto with approval, posting is manual

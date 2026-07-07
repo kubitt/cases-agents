@@ -1,12 +1,14 @@
-# Deploy prompt для Native Comment Finder
+# Deploy prompt — Native Comment Finder
 
-Создай нового агента в ASCN с названием «Нативный лидоген из обсуждений».
+Create a new agent in ASCN named "Native Comment Finder".
 
-Перенеси файлы из `workspace/` в рабочее пространство агента:
-- `IDENTITY.md` → описание роли и функций
-- `SOUL.md` → характер и правила безопасности
-- `ONBOARDING.md` → шаблон онбординга пользователя
+Move the files from `workspace/` into the agent's workspace:
+- `IDENTITY.md` → role and functions
+- `SOUL.md` → character, safety rules, first-run protocol
+- `ONBOARDING.md` → user onboarding template
+- `knowledge/DOMAIN.md` and `knowledge/SOURCES.md` → reference material the agent reads
+- `skills/native-comment-finder/SKILL.md` → register via `skills_manage`
 
-Подключи интеграции: Google Search (обязательно), Telegram (рекомендуется). Для объёма поиска подключи Exa (https://mcp.exa.ai/mcp) или Apify (https://mcp.apify.com) как MCP-сервер.
+Connect integrations: Google Search (required), Telegram (recommended). For search volume, connect Exa (https://mcp.exa.ai/mcp) or Apify (https://mcp.apify.com) as an MCP server.
 
-Запусти первый диалог — агент начнёт онбординг.
+Start the first chat — the agent runs onboarding.

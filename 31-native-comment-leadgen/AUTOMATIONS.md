@@ -1,5 +1,5 @@
-# Автоматизации — Native Comment Finder
+# Automations — Native Comment Finder
 
-Агент работает в режиме чата по запросу пользователя.
+The agent works on demand in chat.
 
-По желанию после онбординга настраивается cron-задача на ежедневный поиск маленькими порциями (2-3 лида) с доставкой карточек в Telegram — так прогон укладывается в лимиты и не падает. Постинг всегда ручной: агент готовит текст и место, публикует пользователь.
+Optionally, after onboarding, set a cron job for a small daily run (2-3 leads) that delivers cards to Telegram. Keeping each run small stays inside platform limits so a run doesn't fail mid-way. Posting is always manual: the agent prepares the text and the place, you publish.
