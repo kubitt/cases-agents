@@ -17,12 +17,13 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/resume-scoring/SKILL.md → /data/workspace/skills/resume-scoring/SKILL.md
    - workspace/skills/interview-scorecard/SKILL.md → /data/workspace/skills/interview-scorecard/SKILL.md
    - workspace/knowledge/VACANCY_RUBRIC.md → /data/workspace/knowledge/VACANCY_RUBRIC.md
    - workspace/knowledge/EMAIL_TEMPLATES.md → /data/workspace/knowledge/EMAIL_TEMPLATES.md
    Системные файлы платформы (AGENTS.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, rules/) НЕ трогай.
-3. Автоматизации НЕ создавай сам: их создаст агент на финальном шаге онбординга по файлу ONBOARDING.md (тексты задач уже лежат в AUTOMATIONS.md этой папки — при желании сверь).
+3. Автоматизации НЕ создавай сам: их создаст агент на финальном шаге онбординга по файлу ONBOARDING.md (агент прочитает их из workspace/AUTOMATIONS.md).
 4. Проверь себя: выведи список перенесённых файлов и первые 3 строки каждого из воркспейса агента.
 5. Напомни мне вручную: подключить интеграции (Gmail, Google Sheets, Google Drive) при первом диалоге с агентом — онбординг сам их запросит; подключить канал Telegram, если нужен.
 6. Отправь агенту первое сообщение «Привет, начнём настройку» и убедись, что он начал онбординг по шагам (представился, назвал время настройки ~15 минут, задал первый вопрос — про вакансию).
