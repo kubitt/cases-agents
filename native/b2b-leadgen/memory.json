@@ -1,0 +1,93 @@
+{
+  "memories": [
+    {
+      "category": "daily",
+      "content": "Assistant confirmed that three files (IDENTITY.md, SOUL.md, USER.md) have been fully overwritten with the specified content, updating the knowledge base. User greeted with 'Привет!'.",
+      "created_at": "2026-07-07 10:50:35.19198+00",
+      "id": "3fa5d7ab-3137-414d-9a41-b3cfa989a0c0",
+      "key": "daily_2026-07-07_a37b5e72-ac25-4aff-8d68-e5715ec85897",
+      "updated_at": "2026-07-07 10:50:35.19198+00"
+    },
+    {
+      "category": "conversation",
+      "content": "Привет!",
+      "created_at": "2026-06-05 14:59:13.624896+00",
+      "id": "321ebb73-cb06-49b7-9a77-9fefdfc5c3b3",
+      "key": "user_msg",
+      "updated_at": "2026-07-07 10:50:16.17005+00"
+    },
+    {
+      "category": "core",
+      "content": "Файлы IDENTITY.md и SOUL.md обновлены: роль — B2B Leadgen агент; стиль — деловой, короткий, без воды; фокус — качество лидов, персонализация, чистая воронка, соблюдение лимитов Gmail; запреты — отправка без подтверждения, дубли, угадывание email, превышение лимитов, спам-триггеры; ценности — релевантность, персонализация, прозрачность, итеративность, уважение; ограничения — не более 30-50 писем в день, подтверждение для отправки и добавления в таблицу; формат вывода — таблица с колонками Компания, Сайт, Контакт, Email, Триггер, Статус. Третий файл не был предоставлен, SOUL.md обрывается на фразе 'Перед показом письма перед отправ…'.",
+      "created_at": "2026-06-05 16:51:20.678128+00",
+      "id": "5320758c-4578-4b7e-b670-1d57934eb98a",
+      "key": "core_01795ac9-b087-4567-970a-4a79351f50b9",
+      "updated_at": "2026-06-05 16:51:20.678128+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь запросил полную перезапись трёх файлов в воркспейсе, предоставив новое содержимое для IDENTITY.md и SOUL.md (третий файл не указан). Содержимое определяет роль B2B Leadgen агента, стиль, фокус, запреты, ценности, ограничения и формат вывода.",
+      "created_at": "2026-06-05 16:51:20.674842+00",
+      "id": "81dd6801-22f0-4b94-9536-7ccbad1dc7d3",
+      "key": "daily_2026-06-05_2bb12893-9ace-4785-913f-f6f39621eaed",
+      "updated_at": "2026-06-05 16:51:20.674842+00"
+    },
+    {
+      "category": "daily",
+      "content": "User issued command to completely overwrite two files in the workspace, providing full replacement content for SOUL.md; second file content was not specified in the message.",
+      "created_at": "2026-06-05 16:24:02.745748+00",
+      "id": "04816c2d-16df-4dbb-b942-6bf8fffb2224",
+      "key": "daily_2026-06-05_feae4ff5-61b9-4812-9ab6-c32572469f63",
+      "updated_at": "2026-06-05 16:24:02.745748+00"
+    },
+    {
+      "category": "core",
+      "content": "Gmail and Google Sheets integrations are not connected, critical for B2B Leadgen.",
+      "created_at": "2026-06-05 16:10:54.105494+00",
+      "id": "0b104e35-c3fa-49ae-b3d2-b0572c1c4cd6",
+      "key": "core_a168db0c-eadd-4df0-b49e-f06ee8b28b6d",
+      "updated_at": "2026-06-05 16:10:54.105494+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested a self-diagnostic. Assistant performed it and reported file list, integration statuses, SOUL.md line count (99), and critical issues: Gmail and Google Sheets are not connected, which is required for B2B Leadgen.",
+      "created_at": "2026-06-05 16:10:54.103423+00",
+      "id": "df03e47a-8eab-44a6-81db-25d20c50a957",
+      "key": "daily_2026-06-05_7bba9699-fc5e-4bda-b8bb-f4b3056d680f",
+      "updated_at": "2026-06-05 16:10:54.103423+00"
+    },
+    {
+      "category": "core",
+      "content": "User wants to save a B2B Leadgen system prompt to SOUL.md. The prompt outlines capabilities for lead generation, email writing, sending, follow-ups, and rules.",
+      "created_at": "2026-06-05 15:57:51.004835+00",
+      "id": "7be434fe-1f19-4798-b280-00679a09c870",
+      "key": "core_e25e6109-4487-42b0-9128-011c299ceb55",
+      "updated_at": "2026-06-05 15:57:51.004835+00"
+    },
+    {
+      "category": "daily",
+      "content": "User provided a detailed system prompt for a B2B Leadgen agent and instructed to save it to the SOUL.md file in the workspace.",
+      "created_at": "2026-06-05 15:57:51.002689+00",
+      "id": "df38e635-df38-4266-b7c5-588cecf1bd2a",
+      "key": "daily_2026-06-05_9c289af7-6041-4535-80e5-332cbe6295cb",
+      "updated_at": "2026-06-05 15:57:51.002689+00"
+    },
+    {
+      "category": "daily",
+      "content": "User greeted assistant. Assistant responded that there are no new ideas and integrations are not connected, then asked how they can help.",
+      "created_at": "2026-06-05 14:59:25.589888+00",
+      "id": "324552e0-2f45-458a-ad65-3fa76310d77e",
+      "key": "daily_2026-06-05_bfb2beb4-64c0-46c1-b8d5-1d63e22a635f",
+      "updated_at": "2026-06-05 14:59:25.589888+00"
+    },
+    {
+      "category": "core",
+      "content": "Russian",
+      "created_at": "2026-06-05 14:59:21.251563+00",
+      "id": "5d887e7f-31f8-43fc-97d4-406f0ae0abb9",
+      "key": "user_language",
+      "updated_at": "2026-06-05 14:59:21.251563+00"
+    }
+  ],
+  "total": 11
+}

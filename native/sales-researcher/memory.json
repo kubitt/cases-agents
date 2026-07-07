@@ -1,0 +1,101 @@
+{
+  "memories": [
+    {
+      "category": "daily",
+      "content": "Ассистент поприветствовал пользователя и начал настройку, спросив имя и предпочтительную форму обращения (ты/вы).",
+      "created_at": "2026-07-07 10:51:28.848103+00",
+      "id": "1757890c-bf58-41aa-90c3-fb1b34017eda",
+      "key": "daily_2026-07-07_bab613d0-fd4a-4a9e-81fa-e44c4f4da15a",
+      "updated_at": "2026-07-07 10:51:28.848103+00"
+    },
+    {
+      "category": "conversation",
+      "content": "Привет!",
+      "created_at": "2026-06-05 15:00:14.023387+00",
+      "id": "d48ef82c-6588-462f-9541-bd10922018d3",
+      "key": "user_msg",
+      "updated_at": "2026-07-07 10:51:23.394733+00"
+    },
+    {
+      "category": "daily",
+      "content": "Ассистент представился как Sales Researcher, объяснил свою функцию и задал первый вопрос для настройки: как зовут пользователя и как к нему обращаться.",
+      "created_at": "2026-06-05 18:33:51.88623+00",
+      "id": "1a63a0e1-bb11-4c91-9ab2-ce06d50a4fff",
+      "key": "daily_2026-06-05_55b5ab73-e777-49e1-9eca-70f572d4952a",
+      "updated_at": "2026-06-05 18:33:51.88623+00"
+    },
+    {
+      "category": "core",
+      "content": "New IDENTITY.md: role is Sales Researcher for B2B prep; style: brief, bulleted, sourced; focus: ready brief for call in 2-3 minutes; forbidden: fabricate facts, save personal data without request, send external messages, change format without approval. New SOUL.md: values: facts over beauty, verifiable, respect time, honesty; limitations: only public sources, no paywalls, no side-effects; output format: standard brief with Company, What they do, Recent news (6 months), Contact, Pain points (relevant to user's product), Hooks, and Sources.",
+      "created_at": "2026-06-05 16:47:53.106596+00",
+      "id": "1a7ecae0-b4e8-468e-9384-7840009c19f4",
+      "key": "core_e5f48896-9019-43f3-b4d4-24255de0628c",
+      "updated_at": "2026-06-05 16:47:53.106596+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely rewrite three files in workspace (Brain → Knowledge), but only provided content for two: IDENTITY.md and SOUL.md. The content defines the assistant's role as Sales Researcher with specific style, focus, and restrictions, and sets values, limitations, and output format.",
+      "created_at": "2026-06-05 16:47:53.103845+00",
+      "id": "30a66501-0d34-44ef-baae-99d701d25e5e",
+      "key": "daily_2026-06-05_c841c05f-7579-4afd-9761-8bbd7267151e",
+      "updated_at": "2026-06-05 16:47:53.103845+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to overwrite two files in workspace, provided full replacement content for SOUL.md (Sales Researcher system prompt with first-run protocol). Second file unspecified.",
+      "created_at": "2026-06-05 16:21:16.228748+00",
+      "id": "a645c484-1efe-4206-96cb-8ecb05bc563d",
+      "key": "daily_2026-06-05_8cd045dc-a6e0-483d-93be-80ee72c2d6c2",
+      "updated_at": "2026-06-05 16:21:16.228748+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested the full contents of seven workspace files (IDENTITY.md, INTEGRATIONS.md, TOOLS.md, AUTOMATIONS.md, CHANNELS.md, CONFIG.md, AGENTS.md). Assistant provided the contents of the first four files (the remaining three were not present or not shown).",
+      "created_at": "2026-06-05 16:15:27.872384+00",
+      "id": "85a8da98-5863-444e-8b61-496d7e9e9d18",
+      "key": "daily_2026-06-05_f3777266-f8ee-4e5c-8f70-f1e88872becc",
+      "updated_at": "2026-06-05 16:15:27.872384+00"
+    },
+    {
+      "category": "daily",
+      "content": "Assistant performed a self-diagnosis as requested, listing all workspace files with sizes, integration statuses (all not connected), SOUL.md line count (75), and confirmed no issues.",
+      "created_at": "2026-06-05 16:08:24.388063+00",
+      "id": "9176d7bd-df3e-4c0f-8b55-e11ff81e4a7f",
+      "key": "daily_2026-06-05_f7f5c15d-a5c2-4479-8f56-0e6905c0a709",
+      "updated_at": "2026-06-05 16:08:24.388063+00"
+    },
+    {
+      "category": "core",
+      "content": "Agent should now operate as Sales Researcher with the provided system prompt. On first launch without existing settings, execute the onboarding protocol (greeting, collect context, save settings, test).",
+      "created_at": "2026-06-05 15:55:37.118298+00",
+      "id": "6b1c7ddb-5c12-457c-9f21-b0ce72286b3a",
+      "key": "core_dbad42c8-29d4-4b66-b67a-179e2aec7dd6",
+      "updated_at": "2026-06-05 15:55:37.118298+00"
+    },
+    {
+      "category": "daily",
+      "content": "User instructed the agent to write the Sales Researcher system prompt into a file named SOUL.md.",
+      "created_at": "2026-06-05 15:55:37.115837+00",
+      "id": "41ef0baf-4ae3-4a8e-8e2d-79ad98cb8411",
+      "key": "daily_2026-06-05_c6696f4d-92ec-4ce1-86a6-004e59affea7",
+      "updated_at": "2026-06-05 15:55:37.115837+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь поприветствовал, ассистент подтвердил готовность к работе и попросил рассказать о задаче.",
+      "created_at": "2026-06-05 15:00:28.359741+00",
+      "id": "f5467d8b-3550-4da4-b86e-66646b4c6b06",
+      "key": "daily_2026-06-05_b1e7a13d-e7fe-4594-b6e5-eaac90b71bb9",
+      "updated_at": "2026-06-05 15:00:28.359741+00"
+    },
+    {
+      "category": "core",
+      "content": "ru",
+      "created_at": "2026-06-05 15:00:23.471285+00",
+      "id": "dbe2ddfc-5a9f-4a30-bdeb-a17cc954ce30",
+      "key": "user_language",
+      "updated_at": "2026-06-05 15:00:23.471285+00"
+    }
+  ],
+  "total": 12
+}

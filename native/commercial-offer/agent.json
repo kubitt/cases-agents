@@ -3,7 +3,7 @@
   "slug": "commercial-offer",
   "source": "native",
   "category": "Sales",
-  "description": "Генератор коммерческих предложений. Описываешь сделку — агент создаёт красивое КП и сохраняет в Google Doc.",
+  "description": "Генератор КП: менеджер описывает сделку → структурированное КП в Google Doc",
   "integrations": {
     "required": [
       "Google Docs"
@@ -13,14 +13,19 @@
   },
   "deploy": {
     "workspace_id": "ws-m48fMBCtd3RqDckSaN2JUr",
-    "status": "deployed_v2",
-    "deployed_at": "2026-06-05",
-    "session_id": null
+    "status": "exported",
+    "exported_at": "2026-07-07"
   },
   "knowledge": {
-    "identity_md_bytes": 973,
-    "soul_md_bytes": 2663,
-    "user_md_bytes": 690
+    "soul_md_bytes": 4973,
+    "identity_md_bytes": 3485,
+    "user_md_bytes": 3485
+  },
+  "memory": {
+    "total": 20
+  },
+  "sessions": {
+    "total": 5
   },
   "version": "v2"
 }

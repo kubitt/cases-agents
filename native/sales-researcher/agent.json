@@ -1,0 +1,34 @@
+{
+  "name": "Sales Researcher",
+  "slug": "sales-researcher",
+  "source": "native",
+  "category": "Sales",
+  "description": "B2B-разведчик: досье на компанию и контактное лицо для подготовки к звонку",
+  "integrations": {
+    "required": [
+      "Web Search"
+    ],
+    "optional": [
+      "LinkedIn",
+      "CrunchBase"
+    ],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-fCxYmZckyHbadXQgQ5vMfr",
+    "status": "exported",
+    "exported_at": "2026-07-07"
+  },
+  "knowledge": {
+    "soul_md_bytes": 4435,
+    "identity_md_bytes": 3389,
+    "user_md_bytes": 69
+  },
+  "memory": {
+    "total": 12
+  },
+  "sessions": {
+    "total": 7
+  },
+  "version": "v2"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Crypto Listing Scanner",
+  "slug": "listing-scanner",
+  "source": "native",
+  "category": "Crypto",
+  "description": "Сканер новых листингов на криптобиржах, деплой на Vercel, тёмная тема, сортировка",
+  "integrations": {
+    "required": [
+      "Vercel API"
+    ],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-YmypzrVtK6qsbFrBp6m3gm",
+    "status": "exported",
+    "exported_at": "2026-07-07"
+  },
+  "knowledge": {},
+  "memory": {
+    "total": 55
+  },
+  "sessions": {
+    "total": 1
+  },
+  "version": "v2"
+}

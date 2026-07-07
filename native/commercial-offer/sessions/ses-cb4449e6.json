@@ -1,0 +1,19 @@
+{
+  "id": "ses-cb4449e6",
+  "messages": [
+    {
+      "content": "== FILES ==\n- .env (0 B)\n- AGENTS.md (4484 B)\n- AUTOMATIONS.md (3630 B)\n- CHANNELS.md (2559 B)\n- CONFIG.md (75 B)\n- HEARTBEAT.md (69 B)\n- IDENTITY.md (108 B)\n- INTEGRATIONS.md (2115 B)\n- MEMORY_POLICY.md (3117 B)\n- SITE.md (1991 B)\n- SOUL.md (4658 B)\n- TOOLS.md (97 B)\n- USER.md (118 B)\n- rules/external-actions.md (406 B)\n- rules/memory.md (586 B)\n- rules/safety.md (396 B)\n- rules/style.md (278 B)\n- rules/tool-use.md (1435 B)\n\n== INTEGRATIONS ==\n- Gmail: не подключено\n- Google Calendar: не подключено\n- Google Drive: не подключено\n- Google Docs: не подключено\n- Google Sheets: не подключено\n- Google Search Console: не подключено\n- Google Meet: не подключено\n- Google Slides: не подключено\n- GitHub: не подключено\n- GitLab: не подключено\n- Supabase: не подключено\n- Slack: не подключено\n- Notion: не подключено\n\n== SOUL_LINES ==\n84\n\n== ISSUES ==\nSOUL.md настроен на генерацию КП с сохранением в Google Docs, но Google Docs не подключён и данные компании не введены — протокол первого запуска не завершён.",
+      "created_at": "2026-06-05 16:13:12.847581+00",
+      "id": 35319,
+      "role": "assistant"
+    },
+    {
+      "content": "Проведи самодиагностику и ответь СТРОГО в этом формате (без лишнего текста):\n\n== FILES ==\n[список всех файлов в твоём воркспейсе с размером в байтах]\n\n== INTEGRATIONS ==\n[список подключённых интеграций — Google Sheets, Gmail, Telegram, и т.д. со статусом подключено/не подключено]\n\n== SOUL_LINES ==\n[количество строк в файле SOUL.md]\n\n== ISSUES ==\n[если есть проблемы — опиши их одной строкой; если всё ок — напиши OK]\n",
+      "created_at": "2026-06-05 16:12:59.112879+00",
+      "id": 35318,
+      "role": "user"
+    }
+  ],
+  "total": 2,
+  "workspace_id": "ws-m48fMBCtd3RqDckSaN2JUr"
+}

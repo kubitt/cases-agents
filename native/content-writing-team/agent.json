@@ -1,0 +1,31 @@
+{
+  "name": "AI Content Writing Team",
+  "slug": "content-writing-team",
+  "source": "native",
+  "category": "Marketing",
+  "description": "Команда контент-райтеров: статьи, посты LinkedIn/X, заголовки, Google Doc",
+  "integrations": {
+    "required": [
+      "Google Docs"
+    ],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-dq4ESvumUYqhfDLsHgJHgv",
+    "status": "exported",
+    "exported_at": "2026-07-07"
+  },
+  "knowledge": {
+    "soul_md_bytes": 3666,
+    "identity_md_bytes": 3054,
+    "user_md_bytes": 3054
+  },
+  "memory": {
+    "total": 11
+  },
+  "sessions": {
+    "total": 5
+  },
+  "version": "v2"
+}

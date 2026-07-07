@@ -1,0 +1,27 @@
+{
+  "name": "ASCN Image Generator",
+  "slug": "image-generator",
+  "source": "native",
+  "category": "Marketing",
+  "description": "Генератор картинок для постов ASCN (Python/Pillow), брендирование",
+  "integrations": {
+    "required": [
+      "Python/Pillow"
+    ],
+    "optional": [],
+    "missing_in_ascn": []
+  },
+  "deploy": {
+    "workspace_id": "ws-4AHZZaXpBrcvwNGqWwgdSB",
+    "status": "exported",
+    "exported_at": "2026-07-07"
+  },
+  "knowledge": {},
+  "memory": {
+    "total": 30
+  },
+  "sessions": {
+    "total": 2
+  },
+  "version": "v2"
+}

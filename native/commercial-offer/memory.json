@@ -1,0 +1,165 @@
+{
+  "memories": [
+    {
+      "category": "core",
+      "content": "Создан скилл 'seo-copywriter' для написания статей с SEO-оптимизацией.",
+      "created_at": "2026-06-11 10:04:51.35476+00",
+      "id": "9eaccca5-f14a-4441-b315-e607d1c01cc2",
+      "key": "core_10e3d8b2-d50d-4abc-bc1e-f1aa2448110b",
+      "updated_at": "2026-06-11 10:04:51.35476+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь попросил создать скилл SEO-агента для написания статей. Ассистент установил скилл 'seo-copywriter' и описал его функционал.",
+      "created_at": "2026-06-11 10:04:51.352934+00",
+      "id": "be6bd249-5100-43aa-96b5-bd8b559a511d",
+      "key": "daily_2026-06-11_1df13a8f-d30a-4c89-af96-ba27d31b8617",
+      "updated_at": "2026-06-11 10:04:51.352934+00"
+    },
+    {
+      "category": "conversation",
+      "content": "создай скилл сео агента который пишет статьи",
+      "created_at": "2026-06-05 15:00:42.984159+00",
+      "id": "7a4ffa2f-8d34-44d7-a681-729e4d83c62c",
+      "key": "user_msg",
+      "updated_at": "2026-06-11 10:04:30.075001+00"
+    },
+    {
+      "category": "core",
+      "content": "User requested assistant to create a skill; assistant committed to doing so once user provides a description.",
+      "created_at": "2026-06-11 10:04:13.885333+00",
+      "id": "93a611df-bead-4cea-802b-7fc61baa09ec",
+      "key": "core_c5aa23eb-3814-40c1-bc4d-606fc2bdcb13",
+      "updated_at": "2026-06-11 10:04:13.885333+00"
+    },
+    {
+      "category": "daily",
+      "content": "Assistant confirmed they can create a skill via `skills_manage` and asked the user to provide a 1-2 sentence description of the desired skill, noting the user does not need to manually enter it.",
+      "created_at": "2026-06-11 10:04:13.883666+00",
+      "id": "fc2bb63c-8bc8-413e-839b-b55850a5b1d0",
+      "key": "daily_2026-06-11_209a4316-4fb3-4fe9-8ac4-31cd04ca8e40",
+      "updated_at": "2026-06-11 10:04:13.883666+00"
+    },
+    {
+      "category": "daily",
+      "content": "User asks if assistant can make a skill. Assistant responds that no skills exist yet and asks for a description of the desired skill, providing examples.",
+      "created_at": "2026-06-11 10:03:48.791357+00",
+      "id": "878f5e80-441c-4d03-a771-1e4eabb86a85",
+      "key": "daily_2026-06-11_0bd431f2-0d85-4c2b-b0cf-02880dcec132",
+      "updated_at": "2026-06-11 10:03:48.791357+00"
+    },
+    {
+      "category": "core",
+      "content": "Ассистент не может работать с другими агентами, является изолированным экземпляром. Однако он поддерживает интеграцию с 13 сервисами (Slack, Gmail, Google Calendar, GitHub, GitLab, Notion и др.), которые можно подключить. Текущие подключения отсутствуют.",
+      "created_at": "2026-06-11 09:18:03.503232+00",
+      "id": "2f54a378-1e0b-4139-a519-d04768beff9d",
+      "key": "core_e7880237-a26a-4266-aaf3-f6929615090b",
+      "updated_at": "2026-06-11 09:18:03.503232+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь спросил, может ли ассистент работать с другими агентами. Ассистент объяснил, что в текущей конфигурации нет — он изолированный экземпляр без доступа к другим агентам, но может быть интегрирован с различными сервисами (Slack, Gmail, Google Calendar, GitHub, GitLab, Notion и др.), которые пока не подключены.",
+      "created_at": "2026-06-11 09:18:03.500676+00",
+      "id": "008a0f11-5c7c-4218-baf4-a37e5a25b2e1",
+      "key": "daily_2026-06-11_801b9773-16fc-49b4-9cdf-cf6f53fed711",
+      "updated_at": "2026-06-11 09:18:03.500676+00"
+    },
+    {
+      "category": "core",
+      "content": "Ассистент помогает создавать структурированные коммерческие предложения и сохранять их в Google Doc. Файлы IDENTITY.md, SOUL.md, USER.md были перезаписаны.",
+      "created_at": "2026-06-10 12:25:13.305076+00",
+      "id": "90285724-33dd-4722-91ae-00f4e6f8935a",
+      "key": "core_0d7deda6-2de7-4641-b6ac-02611a79c6a7",
+      "updated_at": "2026-06-10 12:25:13.305076+00"
+    },
+    {
+      "category": "daily",
+      "content": "Ассистент подтвердил полную перезапись файлов IDENTITY.md, SOUL.md, USER.md и поприветствовал пользователя, предложив помощь в создании коммерческих предложений.",
+      "created_at": "2026-06-10 12:25:13.302726+00",
+      "id": "2489ab7e-8829-4733-a0c7-7f2d52b2f566",
+      "key": "daily_2026-06-10_ceeb3231-acdb-40a0-9023-cda839ac12c3",
+      "updated_at": "2026-06-10 12:25:13.302726+00"
+    },
+    {
+      "category": "core",
+      "content": "New definitions for IDENTITY.md (role as commercial proposal generator) and SOUL.md (values, constraints, output format, first-run protocol) are now active. Third file pending.",
+      "created_at": "2026-06-05 16:54:46.626942+00",
+      "id": "02069ff3-c435-48b6-a72f-2d87030d7ad6",
+      "key": "core_360cbcd3-6574-4288-8dcc-5c1b522b9262",
+      "updated_at": "2026-06-05 16:54:46.626942+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely overwrite three files in the workspace. Provided new content for IDENTITY.md and SOUL.md. Third file not specified.",
+      "created_at": "2026-06-05 16:54:46.624786+00",
+      "id": "b1d01cb8-e505-4e0f-8e30-32d7c4c6da6b",
+      "key": "daily_2026-06-05_0cfb1b5b-1556-4a74-b4c9-4d30c5d308f7",
+      "updated_at": "2026-06-05 16:54:46.624786+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely rewrite the file SOUL.md with the provided new system prompt for a commercial offer generator.",
+      "created_at": "2026-06-05 16:26:59.712767+00",
+      "id": "713a06e9-eab4-486a-bcf2-c220bf8e9a05",
+      "key": "daily_2026-06-05_8c221f45-fd7d-4377-86ad-7a5567ac8ca6",
+      "updated_at": "2026-06-05 16:26:59.712767+00"
+    },
+    {
+      "category": "core",
+      "content": "Протокол первого запуска не завершён: SOUL.md настроен на генерацию КП с сохранением в Google Docs, но Google Docs не подключён и данные компании не введены.",
+      "created_at": "2026-06-05 16:13:21.317875+00",
+      "id": "c479cdc8-8bce-4b03-a147-15a61b4a0b15",
+      "key": "core_00c8e79f-643b-47bf-a393-af2d1156322e",
+      "updated_at": "2026-06-05 16:13:21.317875+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь запросил самодиагностику в строгом формате. Ассистент предоставил отчёт, в котором указаны файлы, интеграции (все не подключены), количество строк в SOUL.md (84) и выявлена проблема: SOUL.md настроен на генерацию КП с сохранением в Google Docs, но интеграция не подключена и данные компании не введены, что указывает на незавершённый протокол первого запуска.",
+      "created_at": "2026-06-05 16:13:21.315683+00",
+      "id": "8f830a68-a4e8-47b3-bbd3-593e129a1c7c",
+      "key": "daily_2026-06-05_b674dc96-1c94-447d-9075-df2053feffdd",
+      "updated_at": "2026-06-05 16:13:21.315683+00"
+    },
+    {
+      "category": "core",
+      "content": "The AI received a command to act as a Commercial Offer Generator with a specific system prompt, including steps for first launch and integration with Google Docs.",
+      "created_at": "2026-06-05 16:00:05.535571+00",
+      "id": "8fd65101-d8b9-49f9-846d-61c75ba6d307",
+      "key": "core_066265d7-9c83-4878-aed3-247fb2eb178f",
+      "updated_at": "2026-06-05 16:00:05.535571+00"
+    },
+    {
+      "category": "daily",
+      "content": "The user provided a detailed system prompt for a 'Commercial Offer Generator' and instructed the AI to write it to a file named SOUL.md in its workspace.",
+      "created_at": "2026-06-05 16:00:05.533423+00",
+      "id": "4f3502ba-6754-4c40-8bd1-120a3b9c7981",
+      "key": "daily_2026-06-05_d2a4979a-16ca-4adf-9be1-b637ddbe4713",
+      "updated_at": "2026-06-05 16:00:05.533423+00"
+    },
+    {
+      "category": "core",
+      "content": "Ассистент представился как ASCN, его область — автоматизация, интеграции и любые задачи.",
+      "created_at": "2026-06-05 15:00:55.350736+00",
+      "id": "739b373f-f7f1-495e-90b7-2cd80a74e95f",
+      "key": "core_ad8ff1b8-7fe3-49ce-88b3-fcc15e351d77",
+      "updated_at": "2026-06-05 15:00:55.350736+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь поприветствовал, ассистент представился как ASCN и предложил помощь с автоматизацией, интеграциями и задачами.",
+      "created_at": "2026-06-05 15:00:55.348484+00",
+      "id": "b737e0b1-ac3d-45e3-98ec-f0043953455b",
+      "key": "daily_2026-06-05_8a13a77d-01f6-4d47-8242-51df53009f55",
+      "updated_at": "2026-06-05 15:00:55.348484+00"
+    },
+    {
+      "category": "core",
+      "content": "ru",
+      "created_at": "2026-06-05 15:00:50.977357+00",
+      "id": "3cd7b8fa-8479-40cb-ae14-9efcab93848d",
+      "key": "user_language",
+      "updated_at": "2026-06-05 15:00:50.977357+00"
+    }
+  ],
+  "total": 20
+}

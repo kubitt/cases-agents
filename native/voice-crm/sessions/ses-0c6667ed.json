@@ -1,0 +1,75 @@
+{
+  "id": "ses-0c6667ed",
+  "messages": [
+    {
+      "content": "Привет! Давай настроимся.\n\nДля начала — **подключи Google Sheets**, чтобы я мог работать с твоей CRM-таблицей.\n\nСкажи: **\"подключи Google Sheets\"** — и кнопка подключения появится прямо здесь, в чате.",
+      "created_at": "2026-06-07 11:48:03.846708+00",
+      "id": 36209,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "args": {
+            "query": "crm-google-sheets_configured"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "query": "crm-google-sheets_configured"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_start"
+        },
+        {
+          "detail": "No memories found.",
+          "success": true,
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_result"
+        }
+      ]
+    },
+    {
+      "content": "Привет! 👋\n\nДавай знакомиться и настраиваться. Я — твой голосовой интерфейс к CRM в Google Sheets. \n\nТы пишешь мне \"добавь сделку с Иваном на 200к\" — я добавляю строку. Пишешь \"обнови статус Петрова на оплачено\" — я обновляю.\n\nНастройка займёт 2 минуты. Для начала — **подключи Google Sheets**.\n\nСкажи: **\"подключи Google Sheets\"** — и я покажу кнопку подключения.",
+      "created_at": "2026-06-05 18:33:44.26889+00",
+      "id": 35389,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "args": {
+            "query": "crm-google-sheets_configured"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "query": "crm-google-sheets_configured"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_start"
+        },
+        {
+          "detail": "No memories found.",
+          "success": true,
+          "tool": "memory_recall",
+          "tool_id": "call_00_jBEswKp970NYQ7phWF6I9491",
+          "type": "tool_result"
+        }
+      ]
+    },
+    {
+      "content": "Привет",
+      "created_at": "2026-06-05 18:33:40.314151+00",
+      "id": 35386,
+      "role": "user"
+    }
+  ],
+  "total": 3,
+  "workspace_id": "ws-HbMDAAZiVJ8pBkah9Z8an8"
+}

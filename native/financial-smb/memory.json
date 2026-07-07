@@ -1,0 +1,85 @@
+{
+  "memories": [
+    {
+      "category": "daily",
+      "content": "Assistant confirmed successful rewrite of three core files (IDENTITY.md, SOUL.md, USER.md) with specified byte counts.",
+      "created_at": "2026-07-07 10:49:57.615817+00",
+      "id": "5a594d42-63b0-48c3-9cd9-3dfc2872a647",
+      "key": "daily_2026-07-07_c4a2fdbb-82a1-4230-8321-233b39f665fd",
+      "updated_at": "2026-07-07 10:49:57.615817+00"
+    },
+    {
+      "category": "conversation",
+      "content": "Привет!",
+      "created_at": "2026-06-05 14:58:12.305308+00",
+      "id": "e37e43b4-97ee-498e-83fb-b65768839ad3",
+      "key": "user_msg",
+      "updated_at": "2026-07-07 10:49:51.130199+00"
+    },
+    {
+      "category": "core",
+      "content": "New long-term knowledge: Updated IDENTITY.md with role as financial assistant for SMEs, style guidelines, focus on transaction accuracy, and prohibitions. Updated SOUL.md with values (accuracy, transparency, usefulness, respect), constraints (user confirmation required, no automatic categorization, etc.), output format for transactions and P&L. Third file content missing; user may provide it later.",
+      "created_at": "2026-06-05 16:55:37.81327+00",
+      "id": "d0a12db1-d84b-4b25-9d97-2985b696cae3",
+      "key": "core_8239e7bd-7011-4ec0-838e-df4c80ae8be5",
+      "updated_at": "2026-06-05 16:55:37.81327+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely overwrite three knowledge base files (IDENTITY.md, SOUL.md, and a third unspecified) in the workspace, providing full content for the first two files but truncating the third.",
+      "created_at": "2026-06-05 16:55:37.810438+00",
+      "id": "fb1ea9f6-580f-431e-91d1-c7fb77ff68b8",
+      "key": "daily_2026-06-05_7199c94d-7fb9-40f7-b956-8dcd679e436d",
+      "updated_at": "2026-06-05 16:55:37.810438+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely rewrite two files in the workspace: SOUL.md with the new system prompt for a financial assistant for SMB, and ORIGINAL.md with the content for a round table meeting discussion about financial literacy.",
+      "created_at": "2026-06-05 16:27:37.844704+00",
+      "id": "b8683335-361d-4210-8931-fe9c499004eb",
+      "key": "daily_2026-06-05_8b23df00-a057-4cdd-a251-baa59a745541",
+      "updated_at": "2026-06-05 16:27:37.844704+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь запросил самодиагностику. Ассистент предоставил отчёт о состоянии: перечислены файлы, интеграции (все отключены), количество строк в SOUL.md (92), и указано на необходимость первого запуска и подключения Google Sheets для финансового ассистента.",
+      "created_at": "2026-06-05 16:14:00.776875+00",
+      "id": "e556fa20-2208-49c4-8389-95e50de931de",
+      "key": "daily_2026-06-05_b87d81d3-a6fb-43fe-bcd3-8a8d0131c07d",
+      "updated_at": "2026-06-05 16:14:00.776875+00"
+    },
+    {
+      "category": "core",
+      "content": "The assistant is now configured as a Financial Agent for SMB with the specified system prompt. It must write the prompt to SOUL.md and follow the outlined protocol.",
+      "created_at": "2026-06-05 16:00:33.553454+00",
+      "id": "8a66273d-54b3-45f1-a517-692e769da991",
+      "key": "core_49392ed5-d5d3-4f1c-911c-848bdc9fc300",
+      "updated_at": "2026-06-05 16:00:33.553454+00"
+    },
+    {
+      "category": "daily",
+      "content": "User provided a detailed system prompt for a Financial Agent for SMB and instructed the assistant to write it to SOUL.md in its workspace.",
+      "created_at": "2026-06-05 16:00:33.550674+00",
+      "id": "ac4a657c-b46f-43fe-925b-7cc6385ade0a",
+      "key": "daily_2026-06-05_535d3c97-8aba-4ee1-b59f-9866f23a931f",
+      "updated_at": "2026-06-05 16:00:33.550674+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь поприветствовал. Ассистент сообщил, что контекст чист и готов к началу работы.",
+      "created_at": "2026-06-05 14:58:24.524214+00",
+      "id": "37569e82-d495-4952-8a5c-bd96f26a9aa1",
+      "key": "daily_2026-06-05_e528d2df-d5dd-4333-b592-fbf8f313df40",
+      "updated_at": "2026-06-05 14:58:24.524214+00"
+    },
+    {
+      "category": "core",
+      "content": "Russian",
+      "created_at": "2026-06-05 14:58:20.059871+00",
+      "id": "7ffec99d-8b92-4a86-a362-30c6d6cdee13",
+      "key": "user_language",
+      "updated_at": "2026-06-05 14:58:20.059871+00"
+    }
+  ],
+  "total": 10
+}

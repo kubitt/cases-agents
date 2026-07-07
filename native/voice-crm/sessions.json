@@ -1,0 +1,47 @@
+{
+  "sessions": [
+    {
+      "first_message": "2026-06-05 18:33:40.314151+00",
+      "id": "ses-0c6667ed",
+      "last_message": "2026-06-07 11:48:03.846708+00",
+      "message_count": 4,
+      "total_tokens": 0
+    },
+    {
+      "first_message": "2026-06-05 16:49:59.433692+00",
+      "id": "ses-1cbcd237",
+      "last_message": "2026-06-05 16:50:15.526915+00",
+      "message_count": 2,
+      "total_tokens": 0
+    },
+    {
+      "first_message": "2026-06-05 16:22:58.414694+00",
+      "id": "ses-42fe8046",
+      "last_message": "2026-06-05 16:23:11.430692+00",
+      "message_count": 2,
+      "total_tokens": 0
+    },
+    {
+      "first_message": "2026-06-05 16:09:58.222131+00",
+      "id": "ses-555f4975",
+      "last_message": "2026-06-05 16:10:14.129577+00",
+      "message_count": 2,
+      "total_tokens": 0
+    },
+    {
+      "first_message": "2026-06-05 15:56:58.28173+00",
+      "id": "ses-17063bc9",
+      "last_message": "2026-06-05 15:57:11.644812+00",
+      "message_count": 2,
+      "total_tokens": 0
+    },
+    {
+      "first_message": "2026-06-05 15:01:44.092711+00",
+      "id": "ses-04ab0ca4",
+      "last_message": "2026-06-05 15:01:54.038785+00",
+      "message_count": 2,
+      "total_tokens": 0
+    }
+  ],
+  "total": 6
+}

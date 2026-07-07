@@ -1,0 +1,254 @@
+{
+  "id": "ses-8b5d0338",
+  "messages": [
+    {
+      "content": "Всё чисто — новый сеанс, предыдущих данных нет. Что могу для тебя сделать?\n\nДоступные интеграции: Gmail, Google Calendar, Drive, GitHub, Slack, Notion и другие — все пока не подключены. Если хочешь что-то подключить или настроить, просто скажи.",
+      "created_at": "2026-06-26 13:01:13.513531+00",
+      "id": 50698,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "args": {
+            "limit": 20
+          },
+          "tool": "memory_list",
+          "tool_id": "call_00_Hh6eK1LeU6qFvEBQ6luy4093",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__integrations",
+          "tool_id": "call_01_8dF7gXmXtGuEpf1BnHe05226",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__channels",
+          "tool_id": "call_02_cffb00XQKPtB8c2ZJWlQ2447",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__skills_manage",
+          "tool_id": "call_03_L7Val6Il8gRW5uwr4Qvj2306",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list",
+            "filter_status": "new"
+          },
+          "tool": "ascn-backend__ideas",
+          "tool_id": "call_04_9avBui2bRUghw8Li8IPf2056",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "limit": 20
+          },
+          "tool": "memory_list",
+          "tool_id": "call_00_Hh6eK1LeU6qFvEBQ6luy4093",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__integrations",
+          "tool_id": "call_01_8dF7gXmXtGuEpf1BnHe05226",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__channels",
+          "tool_id": "call_02_cffb00XQKPtB8c2ZJWlQ2447",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list"
+          },
+          "tool": "ascn-backend__skills_manage",
+          "tool_id": "call_03_L7Val6Il8gRW5uwr4Qvj2306",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "action": "list",
+            "filter_status": "new"
+          },
+          "tool": "ascn-backend__ideas",
+          "tool_id": "call_04_9avBui2bRUghw8Li8IPf2056",
+          "type": "tool_start"
+        },
+        {
+          "detail": "Unknown tool: memory_list",
+          "success": true,
+          "tool": "memory_list",
+          "tool_id": "call_00_Hh6eK1LeU6qFvEBQ6luy4093",
+          "type": "tool_result"
+        },
+        {
+          "detail": {
+            "_ui": {
+              "a": "list",
+              "i": [
+                {
+                  "n": "Gmail",
+                  "p": "gmail"
+                },
+                {
+                  "n": "Google Calendar",
+                  "p": "calendar"
+                },
+                {
+                  "n": "Google Drive",
+                  "p": "drive"
+                },
+                {
+                  "n": "Google Docs",
+                  "p": "docs"
+                },
+                {
+                  "n": "Google Sheets",
+                  "p": "sheets"
+                },
+                {
+                  "n": "Google Search Console",
+                  "p": "searchconsole"
+                },
+                {
+                  "n": "Google Meet",
+                  "p": "meet"
+                },
+                {
+                  "n": "Google Slides",
+                  "p": "slides"
+                },
+                {
+                  "n": "GitHub",
+                  "p": "github"
+                },
+                {
+                  "n": "GitLab",
+                  "p": "gitlab"
+                },
+                {
+                  "n": "Supabase",
+                  "p": "supabase"
+                },
+                {
+                  "n": "Slack",
+                  "p": "slack"
+                },
+                {
+                  "n": "Notion",
+                  "p": "notion"
+                }
+              ]
+            },
+            "text": "13 integration(s) available:\n\n- Gmail (gmail): not connected\n- Google Calendar (calendar): not connected\n- Google Drive (drive): not connected\n- Google Docs (docs): not connected\n- Google Sheets (sheets): not connected\n- Google Search Console (searchconsole): not connected\n- Google Meet (meet): not connected\n- Google Slides (slides): not connected\n- GitHub (github): not connected\n- GitLab (gitlab): not connected\n- Supabase (supabase): not connected\n- Slack (slack): not connected\n- Notion (notion): not connected\n\nUse action=connect with the provider name to connect any of these."
+          },
+          "success": true,
+          "tool": "ascn-backend__integrations",
+          "tool_id": "call_01_8dF7gXmXtGuEpf1BnHe05226",
+          "type": "tool_result"
+        },
+        {
+          "detail": {
+            "_ui": {
+              "a": "list",
+              "i": [
+                {
+                  "ch": "telegram",
+                  "n": "Telegram"
+                }
+              ]
+            },
+            "text": "1 channel(s) available:\n\n- Telegram (telegram): not connected\n\nUse action=connect with the channel type to connect."
+          },
+          "success": true,
+          "tool": "ascn-backend__channels",
+          "tool_id": "call_02_cffb00XQKPtB8c2ZJWlQ2447",
+          "type": "tool_result"
+        },
+        {
+          "detail": "No skills configured.",
+          "success": true,
+          "tool": "ascn-backend__skills_manage",
+          "tool_id": "call_03_L7Val6Il8gRW5uwr4Qvj2306",
+          "type": "tool_result"
+        },
+        {
+          "detail": "No ideas saved yet.",
+          "success": true,
+          "tool": "ascn-backend__ideas",
+          "tool_id": "call_04_9avBui2bRUghw8Li8IPf2056",
+          "type": "tool_result"
+        },
+        {
+          "args": {
+            "limit": 5,
+            "query": "user context language"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_7DcIPDgGjtNdE11pzU0w3120",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "limit": 5,
+            "query": "user context language"
+          },
+          "tool": "memory_recall",
+          "tool_id": "call_00_7DcIPDgGjtNdE11pzU0w3120",
+          "type": "tool_start"
+        },
+        {
+          "detail": "No memories found.",
+          "success": true,
+          "tool": "memory_recall",
+          "tool_id": "call_00_7DcIPDgGjtNdE11pzU0w3120",
+          "type": "tool_result"
+        },
+        {
+          "args": {
+            "category": "core",
+            "content": "Russian",
+            "key": "user_language"
+          },
+          "tool": "memory_store",
+          "tool_id": "call_00_NQehaXC0pcTBHYf4y6vu8864",
+          "type": "tool_start"
+        },
+        {
+          "args": {
+            "category": "core",
+            "content": "Russian",
+            "key": "user_language"
+          },
+          "tool": "memory_store",
+          "tool_id": "call_00_NQehaXC0pcTBHYf4y6vu8864",
+          "type": "tool_start"
+        },
+        {
+          "detail": "Stored memory: user_language",
+          "success": true,
+          "tool": "memory_store",
+          "tool_id": "call_00_NQehaXC0pcTBHYf4y6vu8864",
+          "type": "tool_result"
+        }
+      ]
+    }
+  ],
+  "total": 1,
+  "workspace_id": "ws-QCWE2UWdLHSBy9w3fDJiuS"
+}

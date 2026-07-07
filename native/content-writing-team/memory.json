@@ -1,0 +1,93 @@
+{
+  "memories": [
+    {
+      "category": "daily",
+      "content": "Ассистент поприветствовал пользователя, представился как контент-команда в одном агенте и попросил назвать имя.",
+      "created_at": "2026-07-07 10:50:53.144939+00",
+      "id": "fa237343-4ad5-49c3-a372-73ac59a85a07",
+      "key": "daily_2026-07-07_496e513f-6fdc-4a14-bd5d-531778294d3b",
+      "updated_at": "2026-07-07 10:50:53.144939+00"
+    },
+    {
+      "category": "conversation",
+      "content": "Привет!",
+      "created_at": "2026-06-05 14:59:42.385318+00",
+      "id": "ba55396f-5b18-4e6e-bd28-1fd3b9438211",
+      "key": "user_msg",
+      "updated_at": "2026-07-07 10:50:42.205744+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь дал команду полностью перезаписать три файла в workspace (IDENTITY.md, SOUL.md и ещё один, не показанный).",
+      "created_at": "2026-06-05 16:49:35.488043+00",
+      "id": "1690b754-6710-4ad9-9265-a6e0b55b9bde",
+      "key": "daily_2026-06-05_4b3a7e06-d733-4b10-9c89-4fd0b541785f",
+      "updated_at": "2026-06-05 16:49:35.488043+00"
+    },
+    {
+      "category": "core",
+      "content": "User has initiated a full rewrite of SOUL.md and IDENTITY.md. SOUL.md content is a complete system prompt for AI Content Writing Team. IDENTITY.md content is incomplete; the user may need to provide the full content later.",
+      "created_at": "2026-06-05 16:22:35.946349+00",
+      "id": "d24d1f62-13a7-4d5a-b8cb-731b96abb4d6",
+      "key": "core_2e6445a6-8143-4381-8c39-c0e6883761ea",
+      "updated_at": "2026-06-05 16:22:35.946349+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested to completely rewrite two files in the workspace: SOUL.md (full content provided) and IDENTITY.md (partial content provided, ending with '- **Role:** контент-команд…').",
+      "created_at": "2026-06-05 16:22:35.944371+00",
+      "id": "b5bc5a1f-02b7-42d3-8851-04df8eb85692",
+      "key": "daily_2026-06-05_242ecf92-c1d7-4a02-92aa-2ec4c9f64001",
+      "updated_at": "2026-06-05 16:22:35.944371+00"
+    },
+    {
+      "category": "core",
+      "content": "All integrations (Gmail, Google Calendar, Drive, Docs, Sheets, Search Console, Meet, Slides, GitHub, GitLab, Supabase, Slack, Notion, Telegram) are not connected. The .env file is empty (0 bytes). SOUL.md has 77 lines. No skills are installed.",
+      "created_at": "2026-06-05 16:09:41.387016+00",
+      "id": "37a07068-6c04-4cbc-a721-d73a0c61230d",
+      "key": "core_f86bef8f-464b-47d8-9170-41ac7f1d9bfa",
+      "updated_at": "2026-06-05 16:09:41.387016+00"
+    },
+    {
+      "category": "daily",
+      "content": "User requested a self-diagnosis. Assistant provided a list of workspace files, integration statuses (all not connected), SOUL.md line count (77), and identified issues: no integrations connected, empty .env file, and no skills installed.",
+      "created_at": "2026-06-05 16:09:41.383753+00",
+      "id": "b772ac9e-b060-4e80-8786-53b5923b8621",
+      "key": "daily_2026-06-05_ae31f552-791f-4a25-b583-c5ede8988480",
+      "updated_at": "2026-06-05 16:09:41.383753+00"
+    },
+    {
+      "category": "core",
+      "content": "AI Content Writing Team system prompt saved to SOUL.md; defines content writing workflow and first launch protocol.",
+      "created_at": "2026-06-05 15:56:42.326215+00",
+      "id": "23073848-7a86-46b3-96ad-884d7017dcb2",
+      "key": "core_0ca11b81-6a4f-4dbb-94a6-a11f20c2f187",
+      "updated_at": "2026-06-05 15:56:42.326215+00"
+    },
+    {
+      "category": "daily",
+      "content": "User provided a system prompt for AI Content Writing Team and requested to write it to SOUL.md. Assistant wrote the file (3556 bytes) and confirmed first lines.",
+      "created_at": "2026-06-05 15:56:42.323969+00",
+      "id": "91202726-47ae-4547-9425-15af229c45bd",
+      "key": "daily_2026-06-05_1509b419-0cd3-47c8-819e-89ebc10e0175",
+      "updated_at": "2026-06-05 15:56:42.323969+00"
+    },
+    {
+      "category": "daily",
+      "content": "Пользователь поприветствовал, ассистент представился как ASCN, помощник по автоматизациям и интеграциям.",
+      "created_at": "2026-06-05 14:59:52.774444+00",
+      "id": "3872d55a-82c7-43ac-a4cc-492eb8a1fce4",
+      "key": "daily_2026-06-05_909bb088-305e-456d-98d1-01e00aee1948",
+      "updated_at": "2026-06-05 14:59:52.774444+00"
+    },
+    {
+      "category": "core",
+      "content": "ru",
+      "created_at": "2026-06-05 14:59:50.000549+00",
+      "id": "57be8be1-8dd0-4e5b-8b7f-140d41e75e22",
+      "key": "user_language",
+      "updated_at": "2026-06-05 14:59:50.000549+00"
+    }
+  ],
+  "total": 11
+}

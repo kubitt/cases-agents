@@ -1,0 +1,19 @@
+{
+  "id": "ses-ae51075b",
+  "messages": [
+    {
+      "content": "== FILES ==\nAGENTS.md — 4484\nAUTOMATIONS.md — 3630\nCHANNELS.md — 2559\nCONFIG.md — 75\nHEARTBEAT.md — 69\nIDENTITY.md — 108\nINTEGRATIONS.md — 2115\nMEMORY_POLICY.md — 3117\nSITE.md — 1991\nSOUL.md — 3556\nTOOLS.md — 97\nUSER.md — 118\n.env — 0\nrules/external-actions.md — 406\nrules/memory.md — 586\nrules/safety.md — 396\nrules/style.md — 278\nrules/tool-use.md — 1435\n\n== INTEGRATIONS ==\nGmail: не подключено\nGoogle Calendar: не подключено\nGoogle Drive: не подключено\nGoogle Docs: не подключено\nGoogle Sheets: не подключено\nGoogle Search Console: не подключено\nGoogle Meet: не подключено\nGoogle Slides: не подключено\nGitHub: не подключено\nGitLab: не подключено\nSupabase: не подключено\nSlack: не подключено\nNotion: не подключено\nTelegram (канал): не подключено\n\n== SOUL_LINES ==\n77\n\n== ISSUES ==\nНи одна интеграция не подключена (включая Google Docs, Telegram, GitHub) — SOUL.md обещает сохранение в Google Doc, но это недоступно; .env пустой (0 байт); навыки (skills) не установлены.",
+      "created_at": "2026-06-05 16:09:36.991046+00",
+      "id": 35307,
+      "role": "assistant"
+    },
+    {
+      "content": "Проведи самодиагностику и ответь СТРОГО в этом формате (без лишнего текста):\n\n== FILES ==\n[список всех файлов в твоём воркспейсе с размером в байтах]\n\n== INTEGRATIONS ==\n[список подключённых интеграций — Google Sheets, Gmail, Telegram, и т.д. со статусом подключено/не подключено]\n\n== SOUL_LINES ==\n[количество строк в файле SOUL.md]\n\n== ISSUES ==\n[если есть проблемы — опиши их одной строкой; если всё ок — напиши OK]\n",
+      "created_at": "2026-06-05 16:09:16.431439+00",
+      "id": 35306,
+      "role": "user"
+    }
+  ],
+  "total": 2,
+  "workspace_id": "ws-dq4ESvumUYqhfDLsHgJHgv"
+}
