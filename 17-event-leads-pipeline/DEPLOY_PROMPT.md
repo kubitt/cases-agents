@@ -17,12 +17,13 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/badge-enrich/SKILL.md → /data/workspace/skills/badge-enrich/SKILL.md
    - workspace/skills/followup-sequencer/SKILL.md → /data/workspace/skills/followup-sequencer/SKILL.md
    - workspace/knowledge/ENRICH_SCHEMA.md → /data/workspace/knowledge/ENRICH_SCHEMA.md
    - workspace/knowledge/EVENT_TEMPLATES.md → /data/workspace/knowledge/EVENT_TEMPLATES.md
    Системные файлы платформы (AGENTS.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, rules/) НЕ трогай.
-3. Автоматизации НЕ создавай сам: триггер Drive агент создаст при онбординге, остальное — динамически при кампаниях (тексты — в AUTOMATIONS.md этой папки, при желании сверь).
+3. Автоматизации НЕ создавай сам: триггер Drive агент создаст при онбординге, остальное — динамически при кампаниях (агент прочитает их из workspace/AUTOMATIONS.md).
 4. Проверь себя: выведи список перенесённых файлов и первые 3 строки каждого из воркспейса агента.
 5. Напомни мне: при первом диалоге агент запросит Google Sheets, Gmail, Drive (OAuth-кнопки), опционально Telegram.
 6. Отправь агенту первое сообщение «Привет, начнём настройку» и убедись, что он начал онбординг (представился, время ~8 минут, спросил про ICP).
