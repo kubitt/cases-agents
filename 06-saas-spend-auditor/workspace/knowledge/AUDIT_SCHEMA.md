@@ -1,26 +1,26 @@
 # Схема таблицы «SaaS-аудит»
+
+> Ваш справочный файл. Агент читает его перед работой и дополняет по ходу. Правьте свободно.
 [Агент создаёт таблицу при онбординге и ведёт сам. Пользователь может править вручную — агент подхватывает правки при следующем проходе.]
 
 ## Колонки
-| Колонка | Значения | Пример |
-|---|---|---|
-| vendor | нормализованное имя | Figma |
-| category | из списка ниже | дизайн |
-| plan | тариф | Professional |
-| seats | число мест | 10 |
-| amount | сумма списания | 144 |
-| currency | USD / RUB / EUR | USD |
-| period | monthly / annual / other | monthly |
-| last_charge | дата последнего списания | 2026-06-28 |
-| renewal_date | дата продления; расчётная — пометка в notes | 2026-07-28 |
-| payment_method | последние 4 цифры карты | *4242 |
-| source | gmail / csv / gmail+csv / user | gmail+csv |
-| usage | daily / sometimes / nobody / unknown | sometimes |
-| flags | zombie / duplicate / price_up / trial_convert | duplicate |
-| verdict | keep / cut / renegotiate / hold | renegotiate |
-| saving | экономия $/год; для прогнозов пометка «оценка» | 1296 (оценка) |
-| action_status | pending / sent / done / — | pending |
-| notes | свободный текст | активны 11 мест из 20 |
+- vendor — нормализованное имя — Figma
+- category — из списка ниже — дизайн
+- plan — тариф — Professional
+- seats — число мест — 10
+- amount — сумма списания — 144
+- currency — USD / RUB / EUR — USD
+- period — monthly / annual / other — monthly
+- last_charge — дата последнего списания — 2026-06-28
+- renewal_date — дата продления; расчётная — пометка в notes — 2026-07-28
+- payment_method — последние 4 цифры карты — *4242
+- source — gmail / csv / gmail+csv / user — gmail+csv
+- usage — daily / sometimes / nobody / unknown — sometimes
+- flags — zombie / duplicate / price_up / trial_convert — duplicate
+- verdict — keep / cut / renegotiate / hold — renegotiate
+- saving — экономия $/год; для прогнозов пометка «оценка» — 1296 (оценка)
+- action_status — pending / sent / done / — — pending
+- notes — свободный текст — активны 11 мест из 20
 
 ## Типовые категории SaaS (основа для флага duplicate)
 - Инфраструктура и хостинг: AWS, Vercel, DigitalOcean, Selectel
