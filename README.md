@@ -34,6 +34,7 @@
 | 26 | [AI-команда для создания контента](26-ai-content-writer/) | community |
 | 27 | [Репурпозинг контента по платформам](27-content-repurposer/) | community |
 | 28 | [SEO-копирайтер](28-seo-copywriter/) | community |
+| 29 | [Market Radar](29-market-radar/) | community |
 
 ## Форматы
 
