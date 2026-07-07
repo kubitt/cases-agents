@@ -1,3 +1,0 @@
-- IDENTITY.md: <байт>
-- SOUL.md: <байт>
-- USER.md: <байт>
