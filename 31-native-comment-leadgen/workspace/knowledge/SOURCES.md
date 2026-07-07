@@ -1,5 +1,7 @@
 # Buying-signal markers and source recipes
 
+> Your reference file. The agent reads it before working and updates it as it learns. Edit freely.
+
 ## Signal markers (phrases people use when they have a solvable problem)
 Case-insensitive. Use to build search queries and to pre-filter before scoring.
 

@@ -1,5 +1,7 @@
 # Onboarding — Native Comment Finder
 
+> First-run setup script. The agent follows it step by step on first contact. You normally don't edit this file after setup.
+
 On first run the agent collects user data and fills the product knowledge base.
 
 ## Fields to fill

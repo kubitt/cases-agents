@@ -1,5 +1,7 @@
 # Domain calibration (for finding and scoring leads)
 
+> Your reference file. The agent reads it before working and updates it as it learns. Edit freely.
+
 Reference file, not user-facing. It helps decide who counts as a lead and how to score fit. The product specifics come from onboarding (see ONBOARDING.md → "Product"). Until onboarding is done, use the DEMO defaults below.
 
 ## What counts as a lead
