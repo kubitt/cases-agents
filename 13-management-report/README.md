@@ -19,7 +19,7 @@
 
 - `workspace/` — копируется в воркспейс агента ASCN (IDENTITY, SOUL, ONBOARDING, скиллы, шаблоны).
 - `DEPLOY_PROMPT.md` — промпт для Claude Code, который переносит всё в ASCN.
-- `INTEGRATIONS.md`, `AUTOMATIONS.md` — справка по интеграциям и готовые тексты cron-задач.
+- `INTEGRATIONS.md` — справка по интеграциям. Тексты cron-задач — в workspace/AUTOMATIONS.md.
 
 ## Быстрый деплой
 
