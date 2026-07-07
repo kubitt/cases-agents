@@ -17,6 +17,7 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/battlecard-builder/SKILL.md → /data/workspace/skills/battlecard-builder/SKILL.md
    - workspace/skills/competitor-diff/SKILL.md → /data/workspace/skills/competitor-diff/SKILL.md
    - workspace/knowledge/BATTLECARD_TEMPLATE.md → /data/workspace/knowledge/BATTLECARD_TEMPLATE.md
