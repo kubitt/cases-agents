@@ -20,7 +20,7 @@ This agent runs equivalent analysis in 20-30 minutes, across all your platforms,
 ## Folder contents
 - `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, 4 skills, 2 knowledge files).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
-- `INTEGRATIONS.md`, `AUTOMATIONS.md` — integration reference and ready cron task texts.
+- `INTEGRATIONS.md` — integration reference. Cron task texts live in workspace/AUTOMATIONS.md.
 
 ## Quick deploy
 1. Open Claude Code in this folder.

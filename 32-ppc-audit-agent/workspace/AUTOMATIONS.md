@@ -1,5 +1,7 @@
 # Automations: PPC Audit Agent
 
+> This file lives in the agent's workspace. The agent reads it whenever it creates or edits cron tasks. You can change schedules and wording — the agent will follow the updated version.
+
 ## Cron tasks
 
 ### 1. Weekly full audit (night shift)

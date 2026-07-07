@@ -5,6 +5,8 @@ description: Full multi-platform PPC audit with 200+ checks and Ads Health Score
 
 # Full PPC Audit
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: evaluate all connected ad platforms in one pass, produce an Ads Health Score (0-100, A-F), and deliver a prioritized action plan that a marketer can execute this week.
 
 ## Algorithm
@@ -49,11 +51,9 @@ Goal: evaluate all connected ad platforms in one pass, produce an Ads Health Sco
 # Ads Health Score: 62/100 (Grade C)
 
 ## Platform Breakdown
-| Platform | Score | Grade | Budget Share | Top Issue |
-|---|---|---|---|---|
-| Google Ads | 71 | C | 60% | 23% search terms hidden; no negative keyword strategy |
-| Meta Ads | 48 | D | 30% | Pixel firing on wrong events; 4 duplicate conversions |
-| LinkedIn Ads | 67 | C | 10% | Lead Gen forms not tracking downstream conversion |
+- Google Ads — 71 — C — 60% — 23% search terms hidden; no negative keyword strategy
+- Meta Ads — 48 — D — 30% — Pixel firing on wrong events; 4 duplicate conversions
+- LinkedIn Ads — 67 — C — 10% — Lead Gen forms not tracking downstream conversion
 
 ## Quick Wins (do this week)
 1. [Critical] Fix Meta pixel duplicate conversion actions — currently double-counting, inflating ROAS by ~40%. (1 hour)

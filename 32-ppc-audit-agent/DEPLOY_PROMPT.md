@@ -16,6 +16,7 @@ Do in order:
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (replace)
    - workspace/SOUL.md → /data/workspace/SOUL.md (replace)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (new)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (new; the agent reads it when creating crons)
    - workspace/skills/ads-audit/SKILL.md → /data/workspace/skills/ads-audit/SKILL.md
    - workspace/skills/ads-platform-deep-dive/SKILL.md → /data/workspace/skills/ads-platform-deep-dive/SKILL.md
    - workspace/skills/ads-strategy/SKILL.md → /data/workspace/skills/ads-strategy/SKILL.md
@@ -24,7 +25,7 @@ Do in order:
    - workspace/knowledge/ADS_BENCHMARKS.md → /data/workspace/knowledge/ADS_BENCHMARKS.md
    Do NOT touch platform system files (AGENTS.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, rules/).
 3. Secrets: none required. All integrations use native OAuth.
-4. Do NOT create automations yourself: the agent creates them during onboarding (texts prepared in this folder's AUTOMATIONS.md — verify if you wish).
+4. Do NOT create automations yourself: the agent creates them during onboarding (the agent reads them from workspace/AUTOMATIONS.md).
 5. Verify yourself: list the transferred files and print the first 3 lines of each from the agent workspace.
 6. Remind me manually: on first dialog the agent will request ad platform integrations (Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads — whichever the user runs) and Google Sheets via OAuth buttons, and offer Telegram channel setup.
 7. Send the agent the first message "Hi, let's set up" and confirm it starts the onboarding script (introduces itself, states ~12 minutes, asks about business type and ad spend).
