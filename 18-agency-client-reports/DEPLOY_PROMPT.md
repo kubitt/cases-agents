@@ -17,12 +17,13 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/client-report/SKILL.md → /data/workspace/skills/client-report/SKILL.md
    - workspace/skills/multi-client-orchestrator/SKILL.md → /data/workspace/skills/multi-client-orchestrator/SKILL.md
    - workspace/knowledge/CLIENTS_REGISTRY.md → /data/workspace/knowledge/CLIENTS_REGISTRY.md
    - workspace/knowledge/REPORT_BRAND_TEMPLATE.md → /data/workspace/knowledge/REPORT_BRAND_TEMPLATE.md
    Системные файлы платформы (AGENTS.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, rules/) НЕ трогай.
-3. Автоматизации НЕ создавай сам: их создаст агент на финальном шаге онбординга (тексты — в AUTOMATIONS.md этой папки, при желании сверь).
+3. Автоматизации НЕ создавай сам: их создаст агент на финальном шаге онбординга (агент прочитает их из workspace/AUTOMATIONS.md).
 4. Проверь себя: выведи список перенесённых файлов и первые 3 строки каждого из воркспейса агента.
 5. Напомни мне: при первом диалоге агент запросит GSC, Sheets, Docs, Drive, Gmail (OAuth-кнопки), опционально Telegram.
 6. Отправь агенту первое сообщение «Привет, начнём настройку» и убедись, что он начал онбординг (представился, время ~15 минут, спросил про клиентов).
