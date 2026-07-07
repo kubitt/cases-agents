@@ -73,5 +73,5 @@ Telegram: {бот или личный аккаунт}
 4. Заполнение knowledge/service.md, knowledge/pricing.md, knowledge/objections.md
 5. Рассказ про human takeover (/stop, /resume, /status, /handoff)
 6. Тестовый прогон: «Напишите мне как клиент — покажу, как буду работать»
-7. Предложение автоматизаций (утренняя сводка, аналитика)
+7. Предложение автоматизаций (утренняя сводка, аналитика) — тексты задач читай в AUTOMATIONS.md (в этом воркспейсе)
 8. Сохранение `sales-pro_configured` = "true" в память

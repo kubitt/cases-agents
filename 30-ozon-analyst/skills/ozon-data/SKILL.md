@@ -5,6 +5,8 @@ description: Collects Ozon Seller API data and computes all metrics via the dete
 
 # Skill: ozon-data — collect & compute
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 All collection and math is done by `files/scripts/pipeline.sh` (run `sh files/scripts/pipeline.sh`). Environment: use only `curl` and `jq` (python/node are blocked on the platform). Keys come from the environment (`OZON_CLIENT_ID`, `OZON_API_KEY`), set in Settings → Secrets — never in the command line or files.
 
 ## Endpoints (Ozon Seller API, https://api-seller.ozon.ru)

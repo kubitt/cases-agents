@@ -5,6 +5,8 @@ description: First-run setup of the "Ozon Analyst" agent for a new seller. Run o
 
 # Onboarding: set up Ozon Analyst
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Your job is to configure the agent for a new Ozon seller in a few chat minutes: connect Ozon keys, fill cost prices and warehouses, choose a delivery channel, then run the first reports. Ask ONE question at a time, in the user's language, with an example. Confirm each connection actually succeeded before moving on. Never write secrets to files or memory.
 
 ## Steps

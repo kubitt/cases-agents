@@ -5,6 +5,8 @@ description: Builds the daily Ozon profit report from files/data/results_profit.
 
 # Skill: profit — daily profit report (main)
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Answers one question: where are we losing money and how to earn more. Conclusions only in money.
 
 ## Data
