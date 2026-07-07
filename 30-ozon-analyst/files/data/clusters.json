@@ -1,0 +1,4 @@
+{
+  "_comment": "Справочник складов Ozon. Ключ — ТОЧНОЕ имя склада, как в выгрузке остатков (stock_on_warehouses → warehouse_name). delivery_days — доставка поставки до склада, prep_days — подготовка, target_days — целевой запас в днях.",
+  "Имя склада как в данных": {"delivery_days": 3, "prep_days": 2, "target_days": 30}
+}
