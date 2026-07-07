@@ -5,6 +5,8 @@ description: Strategic ad planning, budget allocation, and A/B test design. Use 
 
 # Ads Strategy & Planning
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: produce an actionable strategic plan — budget allocation, platform mix, bidding strategy, scaling roadmap, or A/B test design — grounded in the user's actual performance data and industry benchmarks.
 
 ## Algorithm
@@ -35,11 +37,9 @@ Goal: produce an actionable strategic plan — budget allocation, platform mix, 
 # Ad Strategy: [Business Type] — $[Budget]/mo
 
 ## Recommended Platform Mix
-| Platform | Budget | % | Why |
-|---|---|---|---|
-| Google Ads | $3,000 | 60% | High-intent search captures bottom-funnel demand |
-| Meta Ads | $1,500 | 30% | Prospecting + retargeting at scale |
-| LinkedIn | $500 | 10% | ABM for enterprise targets only |
+- Google Ads — $3,000 — 60% — High-intent search captures bottom-funnel demand
+- Meta Ads — $1,500 — 30% — Prospecting + retargeting at scale
+- LinkedIn — $500 — 10% — ABM for enterprise targets only
 
 ## Bidding Strategy
 - Google: Target CPA at $45 (current avg $52, benchmark $40). Requires 15+ conv/month — currently at 22, sufficient.
@@ -51,11 +51,9 @@ Week 3-4: [specific actions]...
 Month 2+: [criteria for scaling]...
 
 ## Financial Model
-| Scenario | Monthly Spend | Est. CPA | Est. Conversions | ROAS |
-|---|---|---|---|---|
-| Conservative | $5,000 | $55 | 91 | 3.2x |
-| Moderate | $5,000 | $45 | 111 | 3.9x |
-| Aggressive | $7,500 | $42 | 179 | 4.2x |
+- Conservative — $5,000 — $55 — 91 — 3.2x
+- Moderate — $5,000 — $45 — 111 — 3.9x
+- Aggressive — $7,500 — $42 — 179 — 4.2x
 ```
 
 ### A/B test:

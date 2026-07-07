@@ -5,6 +5,8 @@ description: Search Google Maps for businesses and collect contacts. Use when th
 
 # Maps lead search
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: deliver a filtered, deduplicated list of businesses from Google Maps with full contact details, written to the user's table — fast and with zero invented data.
 
 ## Algorithm

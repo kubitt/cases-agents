@@ -17,6 +17,7 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/rfp-parse/SKILL.md → /data/workspace/skills/rfp-parse/SKILL.md
    - workspace/skills/proposal-assembly/SKILL.md → /data/workspace/skills/proposal-assembly/SKILL.md
    - workspace/knowledge/COMPANY_LIBRARY.md → /data/workspace/knowledge/COMPANY_LIBRARY.md

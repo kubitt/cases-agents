@@ -1,5 +1,7 @@
 # Radar watchlist
 
+> Your reference file. The agent reads it before working and updates it as it learns. Edit freely.
+
 STATUS: NOT CONFIGURED   <!-- while this line is present, the agent runs onboarding and does not build a radar. After setup, replace with: STATUS: CONFIGURED -->
 
 ## Topics (what to track)

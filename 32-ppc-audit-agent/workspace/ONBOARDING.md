@@ -1,5 +1,7 @@
 # ONBOARDING — PPC Audit Agent
 
+> First-run setup script. The agent follows it step by step on first contact. You normally don't edit this file after setup.
+
 First-run script. One question per message. Track `onboarding_step=N` in memory. Skipped step → default + "clarify later" note in USER.md. Resume from the saved step after interruptions.
 
 ## Step 0. Greeting
@@ -38,7 +40,7 @@ Save to knowledge/ADS_BENCHMARKS.md (User Context section). Default: industry de
 Defaults: ASCN chat, 08:00–23:00, critical alerts always.
 
 ## Step 8. Create automations
-Create the cron from AUTOMATIONS.md: weekly audit (Monday 03:00 → delivery after 08:00).
+Create the cron from AUTOMATIONS.md (in this workspace): weekly audit (Monday 03:00 → delivery after 08:00).
 Ask: "Weekly audit on Monday mornings — OK? I run the analysis at night and deliver the report when you wake up. Want a different day or frequency?"
 
 ## Step 9. Test audit (deliver value NOW)

@@ -5,6 +5,8 @@ description: Builds the daily Ozon stock & localization report from files/data/r
 
 # Skill: stock — daily stock & localization report
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Answers one question: where does a stock-out cost the most. NOT "where to put goods" — prioritize by lost profit; the seller decides shipment quantities.
 
 ## Data

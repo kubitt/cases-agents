@@ -16,6 +16,7 @@ Do in order:
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (replace)
    - workspace/SOUL.md → /data/workspace/SOUL.md (replace)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (new)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (new; the agent reads it when creating crons)
    - workspace/skills/maps-lead-search/SKILL.md → /data/workspace/skills/maps-lead-search/SKILL.md
    - workspace/skills/review-analyzer/SKILL.md → /data/workspace/skills/review-analyzer/SKILL.md
    - workspace/knowledge/SEARCH_CRITERIA.md → /data/workspace/knowledge/SEARCH_CRITERIA.md

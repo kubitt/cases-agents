@@ -5,6 +5,8 @@ description: PPC financial calculator. Use when the user says "calculate", "CPA"
 
 # PPC Math Calculator
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: answer any PPC financial question with clear inputs, formula, result, and a one-line interpretation — fast utility, no fluff.
 
 ## Algorithm

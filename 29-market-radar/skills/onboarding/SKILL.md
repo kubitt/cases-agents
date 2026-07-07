@@ -5,6 +5,8 @@ description: First-run setup of the "Market Radar" agent for a new user. Run on 
 
 # Onboarding: set up Market Radar
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Your job is to configure the agent for a new user in a few chat minutes: collect the watchlist, timezone, delivery channel, and needed permissions, then create the morning task and show the first brief.
 
 ## How to run the conversation

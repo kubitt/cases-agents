@@ -1,19 +1,19 @@
 # Схема пайплайна мероприятия (Sheets «Ивент: <название>»)
 
+> Ваш справочный файл. Агент читает его перед работой и дополняет по ходу. Правьте свободно.
+
 ## Лист contacts
-| Колонка | Что | Кто заполняет |
-|---|---|---|
-| name / role / company | контакт | из скана |
-| email / phone | контакты | из скана |
-| notes_booth | пометки со стенда (дословно!) | из скана |
-| company_desc | чем занимается | агент |
-| size_signal | размер/масштаб | агент |
-| fresh_signal | новость/сигнал + URL | агент |
-| segment | A/B/C | агент |
-| segment_reason | одна строка почему | агент |
-| status | new → contacted → replied → meeting / deferred / do_not_contact | агент |
-| touch_1/2/3 | даты касаний | агент |
-| sources | URL обогащения | агент |
+- name / role / company — контакт — из скана
+- email / phone — контакты — из скана
+- notes_booth — пометки со стенда (дословно!) — из скана
+- company_desc — чем занимается — агент
+- size_signal — размер/масштаб — агент
+- fresh_signal — новость/сигнал + URL — агент
+- segment — A/B/C — агент
+- segment_reason — одна строка почему — агент
+- status — new → contacted → replied → meeting / deferred / do_not_contact — агент
+- touch_1/2/3 — даты касаний — агент
+- sources — URL обогащения — агент
 
 ## Скоринг [ЗАПОЛНЯЕТСЯ ПРИ ОНБОРДИНГЕ]
 - A: [ниша = …; размер ≥ …; роль контакта = ЛПР/влияет]

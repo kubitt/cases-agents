@@ -17,6 +17,7 @@
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (заменить содержимое)
    - workspace/SOUL.md → /data/workspace/SOUL.md (заменить содержимое)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (новый файл)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (новый; агент читает его при создании кронов)
    - workspace/skills/pain-miner/SKILL.md → /data/workspace/skills/pain-miner/SKILL.md
    - workspace/knowledge/DOMAIN.md → /data/workspace/knowledge/DOMAIN.md
    - workspace/knowledge/PAIN_SOURCES.md → /data/workspace/knowledge/PAIN_SOURCES.md

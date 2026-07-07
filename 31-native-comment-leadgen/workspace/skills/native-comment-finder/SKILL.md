@@ -5,6 +5,8 @@ description: Full native-comment lead-gen pipeline — find fresh posts where pe
 
 # native-comment-finder
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 ## When to use
 When the user says "find leads", "find posts I can comment on", "run discovery", "find people who need this", or when a scheduled run fires. This skill is the full pipeline: find discussions → score fit → write comment → deliver a card → track. Posting is done by the owner.
 

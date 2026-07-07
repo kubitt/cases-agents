@@ -5,6 +5,8 @@ description: Single-platform deep analysis with 60-80 checks. Use when the user 
 
 # Platform Deep Dive
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Goal: exhaustive single-platform audit with every applicable check, detailed category breakdowns, and platform-specific recommendations that go deeper than the full audit.
 
 ## Algorithm

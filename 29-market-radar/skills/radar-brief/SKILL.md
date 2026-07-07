@@ -5,6 +5,8 @@ description: Assembles the daily market brief in a signature layout. Triggers on
 
 # Playbook: market brief (strict output frame)
 
+> A skill = one repeatable job, written as a recipe. You can edit steps, limits, and formats in plain words.
+
 Purpose — turn a request for a "radar / brief / summary" into one compact report in a single template. Follow the steps.
 
 ## 1. Where to get material
