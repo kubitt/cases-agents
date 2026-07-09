@@ -1,44 +1,85 @@
-# Cases Agents
+# AI Agent Cases for ASCN
 
-Библиотека готовых AI-агентов для маркетплейса ASCN Agent.
+Подборка готовых кейсов AI-агентов на базе платформы [ASCN Agent](https://ascn.ai). Каждый агент — это рабочий шаблон с доказанной бизнес-ценностью, опубликованный на [маркетплейсе ASCN](https://ascn.ai).
 
-## Каталог
+Здесь собраны полные исходники агентов в открытом формате — структура, промпты, скиллы, знания, автоматизации. Всё, что работает внутри платформы, продублировано здесь, чтобы было понятно, как устроен каждый агент и что он делает.
 
-| # | Агент | Формат |
-|---|-------|--------|
-| 01 | [Outbound-машина (AI SDR)](01-ai-sdr-outbound/) | premium |
-| 02 | [AR-коллектор PRO](02-ar-collector-pro/) | premium |
-| 03 | [Юрист первой линии](03-contract-redline/) | premium |
-| 04 | [RFP/тендер-ответчик](04-rfp-responder/) | premium |
-| 05 | [Финпакет + runway (CFO)](05-cfo-financial-package/) | premium |
-| 06 | [SaaS-аудитор расходов](06-saas-spend-auditor/) | premium |
-| 07 | [HR-скринер PRO](07-hr-screener-pro/) | premium |
-| 08 | [GEO-оптимизатор](08-geo-optimizer/) | premium |
-| 09 | [Фабрика локальных SEO-страниц](09-local-seo-factory/) | premium |
-| 10 | [Lifecycle-email конструктор](10-lifecycle-email-builder/) | premium |
-| 11 | [VoC-майнер (голос клиента)](11-voc-copy-miner/) | premium |
-| 12 | [Battlecards для продаж](12-sales-battlecards/) | premium |
-| 13 | [Отчёт руководству + HTML-дашборд](13-management-report/) | premium |
-| 14 | [Инвестор-апдейт и борд-дек](14-investor-update/) | premium |
-| 15 | [ICP-инженер (win/loss)](15-icp-engineer/) | premium |
-| 16 | [Хайринг-кит под ключ](16-hiring-kit/) | premium |
-| 17 | [Бейджи с выставки → пайплайн](17-event-leads-pipeline/) | premium |
-| 18 | [Мульти-клиент отчёты (агентства)](18-agency-client-reports/) | premium |
-| 19 | [Генератор коммерческих предложений](19-commercial-offer-generator/) | community |
-| 20 | [Финансовый помощник для малого бизнеса](20-financial-smb-assistant/) | community |
-| 21 | [AI-продавец в Telegram](21-tg-sales-bot/) | community |
-| 22 | [SMM-агент для Telegram-каналов](22-tg-smm-agent/) | community |
-| 23 | [B2B лидогенерация и холодный аутрич](23-b2b-leadgen/) | community |
-| 24 | [Ресёрч компаний для продаж](24-sales-researcher/) | community |
-| 25 | [CRM в Google Sheets](25-crm-google-sheets/) | community |
-| 26 | [AI-команда для создания контента](26-ai-content-writer/) | community |
-| 27 | [Репурпозинг контента по платформам](27-content-repurposer/) | community |
-| 28 | [SEO-копирайтер](28-seo-copywriter/) | community |
-| 29 | [Market Radar](29-market-radar/) | community |
-| 30 | [Майнер болей аудитории (Pain Miner)](30-pain-miner/) | premium |
-| 31 | [Нативный лидоген из обсуждений](31-native-comment-leadgen/) | community |
+## Быстрый старт — скопировать агента за 1 минуту
 
-## Форматы
+Любой агент из этого репозитория можно воспроизвести в ASCN за один промпт:
 
-- **premium** (01–18, 30) — полный пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING, skills/, knowledge/)
-- **community** (19–29) — базовый пакет: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS, workspace/ (IDENTITY, SOUL, ONBOARDING)
+1. Создайте нового агента на [ascn.ai](https://ascn.ai)
+2. Скиньте ему ссылку на папку нужного агента, например:
+   ```
+   https://github.com/kubitt/cases-agents/tree/main/01-ai-sdr-outbound
+   ```
+3. Напишите промпт:
+   > Сделай полную копию этого агента, сохраняя всю структуру файлов и папок
+4. Агент воспроизведёт всё: роль, характер, скиллы, базу знаний, онбординг
+5. Дальше дорабатывайте под себя — настройте интеграции, добавьте свои данные
+
+## Каталог агентов
+
+### Premium (01–18) — полный пакет
+
+Каждый агент содержит: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS + workspace/ (IDENTITY, SOUL, ONBOARDING, skills/, knowledge/)
+
+| # | Агент | Что делает |
+|---|-------|-----------|
+| 01 | [Outbound-машина (AI SDR)](01-ai-sdr-outbound/) | Поиск → ресёрч → персональные письма → встречи в календарь |
+| 02 | [AR-коллектор PRO](02-ar-collector-pro/) | Автоматический сбор дебиторки и напоминания |
+| 03 | [Юрист первой линии](03-contract-redline/) | Ревью договоров, поиск рисков, redline |
+| 04 | [RFP/тендер-ответчик](04-rfp-responder/) | Парсинг ТЗ → готовое КП за минуты |
+| 05 | [Финпакет + runway (CFO)](05-cfo-financial-package/) | P&L, cash flow, runway-прогноз для стартапа |
+| 06 | [SaaS-аудитор расходов](06-saas-spend-auditor/) | Находит лишние подписки и экономит бюджет |
+| 07 | [HR-скринер PRO](07-hr-screener-pro/) | Скоринг резюме и подготовка к интервью |
+| 08 | [GEO-оптимизатор](08-geo-optimizer/) | Оптимизация контента для AI-поисковиков |
+| 09 | [Фабрика локальных SEO-страниц](09-local-seo-factory/) | Генерация SEO-страниц под города и ниши |
+| 10 | [Lifecycle-email конструктор](10-lifecycle-email-builder/) | Цепочки писем по этапам воронки |
+| 11 | [VoC-майнер (голос клиента)](11-voc-copy-miner/) | Отзывы → инсайты → готовый копирайт |
+| 12 | [Battlecards для продаж](12-sales-battlecards/) | Конкурентные карточки для отдела продаж |
+| 13 | [Отчёт руководству + дашборд](13-management-report/) | KPI-отчёт с HTML-дашбордом |
+| 14 | [Инвестор-апдейт](14-investor-update/) | Ежемесячный апдейт для инвесторов и борда |
+| 15 | [ICP-инженер (win/loss)](15-icp-engineer/) | Анализ сделок → точный портрет клиента |
+| 16 | [Хайринг-кит под ключ](16-hiring-kit/) | Описание вакансии + скоринг + оффер |
+| 17 | [Бейджи с выставки → пайплайн](17-event-leads-pipeline/) | Контакты с ивента → сегментация → фоллоу-апы |
+| 18 | [Мульти-клиент отчёты](18-agency-client-reports/) | Отчёты для клиентов агентства |
+
+### Community (19–29) — базовый пакет
+
+Агенты с workspace/ (IDENTITY, SOUL, ONBOARDING), без расширенных skills/ и knowledge/
+
+| # | Агент | Что делает |
+|---|-------|-----------|
+| 19 | [Генератор КП](19-commercial-offer-generator/) | Коммерческое предложение по описанию сделки |
+| 20 | [Финансовый помощник SMB](20-financial-smb-assistant/) | Учёт доходов/расходов, P&L в Google Sheets |
+| 21 | [AI-продавец в Telegram](21-tg-sales-bot/) | Продажи через Telegram: потребности → закрытие |
+| 22 | [SMM-агент для Telegram](22-tg-smm-agent/) | Контент-план и посты для Telegram-канала |
+| 23 | [B2B Leadgen](23-b2b-leadgen/) | Поиск компаний → email → персональные письма |
+| 24 | [Sales Researcher](24-sales-researcher/) | Ресёрч компании и контактов перед звонком |
+| 25 | [CRM в Google Sheets](25-crm-google-sheets/) | Голосовая CRM в таблице |
+| 26 | [AI Content Writer](26-ai-content-writer/) | Статьи + соцсети из одной идеи |
+| 27 | [Content Repurposer](27-content-repurposer/) | Один материал → посты для всех платформ |
+| 28 | [SEO Copywriter](28-seo-copywriter/) | SEO-статьи с мета-тегами |
+| 29 | [Market Radar](29-market-radar/) | Мониторинг рынка и конкурентов |
+
+## Структура папки агента
+
+```
+NN-agent-name/
+├── README.md          # витрина: что делает, ценность, ROI
+├── DEPLOY_PROMPT.md   # промпт для деплоя в ASCN
+├── INTEGRATIONS.md    # какие интеграции нужны
+├── AUTOMATIONS.md     # cron-задачи и триггеры
+└── workspace/         # рабочее пространство агента
+    ├── IDENTITY.md    # роль, функции, границы
+    ├── SOUL.md        # характер + правила безопасности
+    ├── ONBOARDING.md  # пошаговый онбординг пользователя
+    ├── skills/        # скиллы с алгоритмами (premium)
+    └── knowledge/     # шаблоны и плейбуки (premium)
+```
+
+## Ссылки
+
+- [ASCN Agent](https://ascn.ai) — платформа для создания AI-агентов
+- [Маркетплейс](https://ascn.ai) — все агенты доступны для установки
