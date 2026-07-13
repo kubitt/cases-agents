@@ -45,6 +45,7 @@
 | 17 | [Бейджи с выставки → пайплайн](17-event-leads-pipeline/) | Контакты с ивента → сегментация → фоллоу-апы |
 | 18 | [Мульти-клиент отчёты](18-agency-client-reports/) | Отчёты для клиентов агентства |
 | 34 | [Pinterest Traffic Agent](34-pinterest-traffic-agent/) | Ниша → дизайн пинов (AI-картинка + подпись + SEO) → трафик в Pinterest |
+| 35 | [SMM Content Factory](35-smm-content-factory/) | Тренды → посты под соцсети + AI-картинки → публикация по расписанию |
 
 ### Community (19–29) — базовый пакет
 
