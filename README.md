@@ -49,6 +49,7 @@
 | 36 | [Competitor Price Watch](36-competitor-price-watch/) | Ежедневный парсинг цен конкурентов → дельта % → сводка в Telegram |
 | 37 | [Warm Lead Nurture](37-warm-lead-nurture/) | Тёплые лиды из таблицы → персональные follow-up через 2 дня → 3 касания |
 | 38 | [Inbound Request Router](38-inbound-request-router/) | Входящие из всех каналов → классификация (тип+срочность) → CRM + маршрутизация |
+| 39 | [Ad Creative Generator](39-ad-creative-generator/) | Бриф → 5 объявлений (крючки) + AI-картинки → история тестов |
 
 ### Community (19–29) — базовый пакет
 
