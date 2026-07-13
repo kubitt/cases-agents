@@ -47,6 +47,7 @@
 | 34 | [Pinterest Traffic Agent](34-pinterest-traffic-agent/) | Ниша → дизайн пинов (AI-картинка + подпись + SEO) → трафик в Pinterest |
 | 35 | [SMM Content Factory](35-smm-content-factory/) | Тренды → посты под соцсети + AI-картинки → публикация по расписанию |
 | 36 | [Competitor Price Watch](36-competitor-price-watch/) | Ежедневный парсинг цен конкурентов → дельта % → сводка в Telegram |
+| 37 | [Warm Lead Nurture](37-warm-lead-nurture/) | Тёплые лиды из таблицы → персональные follow-up через 2 дня → 3 касания |
 
 ### Community (19–29) — базовый пакет
 
