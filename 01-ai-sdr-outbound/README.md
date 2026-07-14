@@ -1,4 +1,6 @@
-# Outbound-машина (AI SDR) / Outbound Machine
+# Outbound-машина (AI SDR) / Outbound Machine (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-sdr-agent-outbound-sales-automation) · [EN](https://ascn.ai/en/templates/ai-sdr-agent-outbound-sales-automation)
 
 Персональный SDR: сам ресёрчит каждого проспекта, пишет не-шаблонные письма и ведёт цепочки касаний — вы только жмёте «отправить».
 

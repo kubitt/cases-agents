@@ -1,4 +1,6 @@
-# Инвестор-апдейт и борд-дек / Investor Update & Board Deck
+# Инвестор-апдейт и борд-дек / Investor Update & Board Deck (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-investor-update-report-generator) · [EN](https://ascn.ai/en/templates/ai-investor-update-report-generator)
 
 Send-ready письмо инвесторам из реальных цифр в Sheets — с честными lowlights и конкретными asks; по запросу — борд-дек на 12–15 слайдов со speaker notes.
 

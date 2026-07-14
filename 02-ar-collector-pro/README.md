@@ -1,4 +1,6 @@
-# AR-коллектор PRO / AR Collector Pro
+# AR-коллектор PRO / AR Collector Pro (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-accounts-receivable-collections-automation) · [EN](https://ascn.ai/en/templates/ai-accounts-receivable-collections-automation)
 
 Возвращает дебиторку без вашего участия: ведёт напоминания по нарастающим стадиям, разбирает ответы должников и помнит каждое «оплатим в пятницу» — и возвращается к нему.
 

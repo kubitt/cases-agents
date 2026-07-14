@@ -1,4 +1,6 @@
-# Battlecards для отдела продаж / Sales Battlecards
+# Battlecards для отдела продаж / Sales Battlecards (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-sales-battlecards-competitive-intelligence) · [EN](https://ascn.ai/en/templates/ai-sales-battlecards-competitive-intelligence)
 
 Боевые карточки по каждому конкуренту из открытых источников + еженедельный мониторинг изменений — продавцы всегда знают, что отвечать на «а чем вы лучше X?».
 

@@ -1,4 +1,6 @@
-# Финансовый пакет + runway (аутсорс-CFO) / CFO Financial Package & Runway
+# Финансовый пакет + runway (аутсорс-CFO) / CFO Financial Package & Runway (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-cfo-financial-reporting-runway-forecast) · [EN](https://ascn.ai/en/templates/ai-cfo-financial-reporting-runway-forecast)
 
 Из сырых выгрузок банка и CRM — месячный финансовый пакет с комментариями к отклонениям и живой 13-недельный прогноз кэша: вы всегда знаете, сколько недель жизни у бизнеса.
 

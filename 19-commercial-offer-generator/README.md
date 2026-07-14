@@ -1,4 +1,6 @@
-# Генератор коммерческих предложений
+# Генератор коммерческих предложений (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-commercial-proposal-generator) · [EN](https://ascn.ai/en/templates/ai-commercial-proposal-generator)
 
 **Commercial Offer Generator**
 

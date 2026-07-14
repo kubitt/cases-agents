@@ -1,4 +1,6 @@
-# Голос клиента → продающий копирайт (VoC-майнер) / VoC Copy Miner
+# Голос клиента → продающий копирайт (VoC-майнер) / VoC Copy Miner (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/voice-of-customer-copy-mining-agent) · [EN](https://ascn.ai/en/templates/voice-of-customer-copy-mining-agent)
 
 Собирает дословные фразы клиентов из отзывов — ваших и конкурентов — и превращает их в хуки, заголовки и копирайт, который звучит языком покупателя, а не «AI-прозой».
 

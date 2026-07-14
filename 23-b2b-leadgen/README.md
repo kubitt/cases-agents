@@ -1,4 +1,6 @@
-# B2B лидогенерация и холодный аутрич
+# B2B лидогенерация и холодный аутрич (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-b2b-lead-generation-agent) · [EN](https://ascn.ai/en/templates/ai-b2b-lead-generation-agent)
 
 **B2B Leadgen**
 

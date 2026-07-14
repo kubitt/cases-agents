@@ -1,4 +1,6 @@
-# Бейджи с выставки → пайплайн / Event Leads Pipeline
+# Бейджи с выставки → пайплайн / Event Leads Pipeline (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/event-lead-capture-follow-up-automation) · [EN](https://ascn.ai/en/templates/event-lead-capture-follow-up-automation)
 
 CSV со сканами бейджей после выставки → каждый контакт обогащён ресёрчем, отскорен и получает персональный follow-up в тот же день. Пока конкуренты неделю «разбирают визитки», вы уже в переписке.
 

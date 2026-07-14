@@ -1,4 +1,6 @@
-# Ресёрч компаний для продаж
+# Ресёрч компаний для продаж (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-sales-research-account-prep-agent) · [EN](https://ascn.ai/en/templates/ai-sales-research-account-prep-agent)
 
 **Sales Researcher**
 

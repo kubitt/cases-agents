@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "Pinterest Traffic Agent" to ASCN
 
-Copy the text below into Claude Code opened in this folder (34-pinterest-traffic-agent/).
+Copy the text below into Claude Code opened in this folder (36-pinterest-traffic-agent/).
 
 ---
 

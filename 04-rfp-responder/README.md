@@ -1,4 +1,6 @@
-# RFP/тендер-ответчик / RFP Responder
+# RFP/тендер-ответчик / RFP Responder (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-rfp-response-proposal-automation) · [EN](https://ascn.ai/en/templates/ai-rfp-response-proposal-automation)
 
 RFP или тендерная документация → чек-лист требований с go/no-go и собранный секция-за-секцией ответ на языке заказчика — за одну сессию вместо 8–20 часов.
 

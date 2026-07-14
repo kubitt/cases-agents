@@ -1,4 +1,6 @@
-# Market Radar — install & publish
+# Market Radar — install & publish (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-market-competitor-intelligence-radar) · [EN](https://ascn.ai/en/templates/ai-market-competitor-intelligence-radar)
 
 This package turns the agent into a self-serve template: a new user launches it, the agent runs onboarding (skill `onboarding`), collects the watchlist, timezone, channel, and permissions, creates the morning task, and shows the first brief.
 

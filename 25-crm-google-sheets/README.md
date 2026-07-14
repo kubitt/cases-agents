@@ -1,4 +1,6 @@
-# CRM в Google Sheets
+# CRM в Google Sheets (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-crm-in-google-sheets-agent) · [EN](https://ascn.ai/en/templates/ai-crm-in-google-sheets-agent)
 
 **CRM в Google Sheets**
 

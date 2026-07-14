@@ -1,4 +1,6 @@
-# Хайринг-кит под ключ / Hiring Kit Builder
+# Хайринг-кит под ключ / Hiring Kit Builder (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-hiring-kit-job-description-offer-generator) · [EN](https://ascn.ai/en/templates/ai-hiring-kit-job-description-offer-generator)
 
 Назовите роль — получите полный комплект для найма: JD, вилку зарплаты с источниками, 4-этапную воронку интервью с банками вопросов, scorecards и тексты для джоб-бордов. Всё согласовано между собой, за одну сессию.
 

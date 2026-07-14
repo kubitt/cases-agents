@@ -1,4 +1,6 @@
-# Майнер болей аудитории / Pain Miner
+# Майнер болей аудитории / Pain Miner (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-audience-pain-research-agent) · [EN](https://ascn.ai/en/templates/ai-audience-pain-research-agent)
 
 Находит, какими словами реальные люди описывают боли, которые закрывает ваш продукт, — из Hacker News, Reddit, форумов и Stack Exchange — и превращает это в ранжированные инсайты с дословными цитатами и готовыми углами для лендингов и контента.
 

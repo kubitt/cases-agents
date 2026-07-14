@@ -1,4 +1,6 @@
-# Мульти-клиент отчёты для агентств / Agency Client Reports
+# Мульти-клиент отчёты для агентств / Agency Client Reports (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-agency-client-reporting-automation) · [EN](https://ascn.ai/en/templates/ai-agency-client-reporting-automation)
 
 Для агентств (SEO/SMM/перфоманс): месячные брендированные отчёты всем клиентам — за одну сессию вместо недели ручной сборки. Данные из Search Console и ваших таблиц, выводы человеческим языком, рассылка после утверждения.
 

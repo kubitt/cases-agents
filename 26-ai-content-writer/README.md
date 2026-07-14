@@ -1,4 +1,6 @@
-# AI-команда для создания контента
+# AI-команда для создания контента (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-content-writing-team-agent) · [EN](https://ascn.ai/en/templates/ai-content-writing-team-agent)
 
 **AI Content Writing Team**
 

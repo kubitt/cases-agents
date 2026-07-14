@@ -1,4 +1,6 @@
-# SaaS-аудитор расходов / SaaS Spend Auditor
+# SaaS-аудитор расходов / SaaS Spend Auditor (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-saas-spend-auditor-cut-subscription-costs) · [EN](https://ascn.ai/en/templates/ai-saas-spend-auditor-cut-subscription-costs)
 
 Находит все подписки компании по квитанциям в почте и банковским выпискам, выносит вердикт по каждой и ловит продления заранее — лишние списания прекращаются.
 

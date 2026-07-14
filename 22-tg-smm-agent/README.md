@@ -1,4 +1,6 @@
-# SMM-агент для Telegram-каналов
+# SMM-агент для Telegram-каналов (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-telegram-smm-content-agent) · [EN](https://ascn.ai/en/templates/ai-telegram-smm-content-agent)
 
 **TG SMM**
 

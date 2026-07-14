@@ -1,4 +1,6 @@
-# Отчёт для руководства + HTML-дашборд / Management Report + Dashboard
+# Отчёт для руководства + HTML-дашборд / Management Report + Dashboard (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-management-kpi-report-dashboard-agent) · [EN](https://ascn.ai/en/templates/ai-management-kpi-report-dashboard-agent)
 
 Каждый понедельник — нарративный KPI-отчёт с комментариями к отклонениям и действиями, плюс интерактивный HTML-дашборд одним файлом: открывается в браузере без всяких BI-систем.
 

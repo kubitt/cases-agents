@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "Inbound Request Router" to ASCN
 
-Copy the text below into Claude Code opened in this folder (38-inbound-request-router/).
+Copy the text below into Claude Code opened in this folder (40-inbound-request-router/).
 
 ---
 

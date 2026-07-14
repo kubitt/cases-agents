@@ -1,4 +1,6 @@
-# AI-продавец в Telegram
+# AI-продавец в Telegram (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-telegram-sales-bot) · [EN](https://ascn.ai/en/templates/ai-telegram-sales-bot)
 
 **TG Seller**
 

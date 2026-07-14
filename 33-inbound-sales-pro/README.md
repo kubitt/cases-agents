@@ -1,4 +1,6 @@
-# Inbound Sales Pro — ИИ-продажник с полной воронкой
+# Inbound Sales Pro — ИИ-продажник с полной воронкой (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-inbound-sales-agent-telegram) · [EN](https://ascn.ai/en/templates/ai-inbound-sales-agent-telegram)
 
 **Sales Pro**
 

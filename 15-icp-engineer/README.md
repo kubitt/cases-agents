@@ -1,4 +1,6 @@
-# ICP-инженер из win/loss данных / ICP Engineer
+# ICP-инженер из win/loss данных / ICP Engineer (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-icp-win-loss-analysis-agent) · [EN](https://ascn.ai/en/templates/ai-icp-win-loss-analysis-agent)
 
 Выводит портрет идеального клиента из вашей реальной истории сделок: какие сигналы статистически отличают выигрыши от проигрышей — данные вместо мнения основателя.
 

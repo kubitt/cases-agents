@@ -1,4 +1,6 @@
-# PPC Audit Agent / Аудитор рекламных кабинетов
+# PPC Audit Agent / Аудитор рекламных кабинетов (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-ppc-audit-agent-google-meta-ads) · [EN](https://ascn.ai/en/templates/ai-ppc-audit-agent-google-meta-ads)
 
 Your personal PPC analyst: audits ad accounts across Google, Meta, LinkedIn, and TikTok with 200+ automated checks, scores them 0-100, finds wasted spend, and delivers a prioritized action plan — weekly, on demand, or both.
 

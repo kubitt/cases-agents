@@ -1,4 +1,6 @@
-# SEO-копирайтер
+# SEO-копирайтер (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-seo-copywriter-article-generator) · [EN](https://ascn.ai/en/templates/ai-seo-copywriter-article-generator)
 
 **SEO Copywriter**
 

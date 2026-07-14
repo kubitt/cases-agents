@@ -1,4 +1,6 @@
-# Репурпозинг контента по платформам
+# Репурпозинг контента по платформам (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-content-repurposing-agent) · [EN](https://ascn.ai/en/templates/ai-content-repurposing-agent)
 
 **Simple Content Repurposer**
 

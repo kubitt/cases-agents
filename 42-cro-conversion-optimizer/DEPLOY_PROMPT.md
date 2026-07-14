@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "CRO Conversion Optimizer" to ASCN
 
-Copy the text below into Claude Code opened in this folder (40-cro-conversion-optimizer/).
+Copy the text below into Claude Code opened in this folder (42-cro-conversion-optimizer/).
 
 ---
 

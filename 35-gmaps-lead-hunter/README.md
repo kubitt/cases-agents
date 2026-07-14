@@ -1,4 +1,6 @@
-# Google Maps Lead Hunter
+# Google Maps Lead Hunter (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/google-maps-lead-scraper-agent) · [EN](https://ascn.ai/en/templates/google-maps-lead-scraper-agent)
 
 Search Google Maps by your criteria — niche, location, rating, count — and get a ready contact list with optional review-based sales insights.
 

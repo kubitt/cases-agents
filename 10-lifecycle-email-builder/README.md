@@ -1,4 +1,6 @@
-# Lifecycle-email конструктор / Lifecycle Email Builder
+# Lifecycle-email конструктор / Lifecycle Email Builder (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/lifecycle-email-marketing-automation-agent) · [EN](https://ascn.ai/en/templates/lifecycle-email-marketing-automation-agent)
 
 Полная система удержания клиентов из одного описания бизнеса: сегменты, ветки писем, копирайт, тайминги — пакетом, готовым к загрузке в вашу рассылочную платформу.
 

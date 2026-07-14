@@ -1,4 +1,6 @@
-# HR-скринер PRO / HR Screener PRO
+# HR-скринер PRO / HR Screener PRO (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-resume-screening-candidate-scoring-agent) · [EN](https://ascn.ai/en/templates/ai-resume-screening-candidate-scoring-agent)
 
 Превращает 300 откликов в шорт-лист с объяснимыми оценками, а транскрипты интервью — в скоркарды с цитатами-доказательствами и hire/no-hire рекомендацией.
 

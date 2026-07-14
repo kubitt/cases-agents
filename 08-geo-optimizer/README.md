@@ -1,4 +1,6 @@
-# GEO-оптимизатор / GEO Optimizer
+# GEO-оптимизатор / GEO Optimizer (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/geo-generative-engine-optimization-agent) · [EN](https://ascn.ai/en/templates/geo-generative-engine-optimization-agent)
 
 Делает ваш сайт цитируемым источником для ChatGPT, Perplexity и AI Overviews: аудит цитируемости, переписанные страницы, ежемесячная проверка видимости.
 

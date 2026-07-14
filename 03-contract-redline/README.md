@@ -1,4 +1,6 @@
-# Юрист первой линии (redline договоров) / First-Line Contract Redliner
+# Юрист первой линии (redline договоров) / First-Line Contract Redliner (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-contract-review-redline-legal-agent) · [EN](https://ascn.ai/en/templates/ai-contract-review-redline-legal-agent)
 
 Входящий договор → redline-правки по каждому рискованному пункту и вердикт «подписать / торговаться / эскалировать» по плейбуку вашей компании. NDA — разворот в тот же день.
 

@@ -1,4 +1,6 @@
-# Ozon Analyst — install & publish
+# Ozon Analyst — install & publish (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-ozon-seller-analytics-profit-agent) · [EN](https://ascn.ai/en/templates/ai-ozon-seller-analytics-profit-agent)
 
 This package turns the agent into a self-serve template: a new seller launches it, the agent runs onboarding (skill `onboarding`), connects Ozon keys, fills cost prices and warehouses, picks a channel, creates the daily tasks, and shows the first two reports.
 

@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "Competitor Price Watch" to ASCN
 
-Copy the text below into Claude Code opened in this folder (36-competitor-price-watch/).
+Copy the text below into Claude Code opened in this folder (38-competitor-price-watch/).
 
 ---
 

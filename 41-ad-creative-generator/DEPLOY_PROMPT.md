@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "Ad Creative Generator" to ASCN
 
-Copy the text below into Claude Code opened in this folder (39-ad-creative-generator/).
+Copy the text below into Claude Code opened in this folder (41-ad-creative-generator/).
 
 ---
 

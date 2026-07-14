@@ -1,4 +1,6 @@
-# Фабрика локальных SEO-страниц / Local SEO Page Factory
+# Фабрика локальных SEO-страниц / Local SEO Page Factory (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/local-seo-landing-page-generator-agent) · [EN](https://ascn.ai/en/templates/local-seo-landing-page-generator-agent)
 
 Для локальных сервисных бизнесов: десятки уникальных страниц «услуга + город/район» с локальными деталями, FAQ и schema-разметкой — не дубли с заменой топонима.
 

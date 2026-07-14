@@ -1,4 +1,6 @@
-# Финансовый помощник для малого бизнеса
+# Финансовый помощник для малого бизнеса (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/ai-financial-assistant-for-small-business) · [EN](https://ascn.ai/en/templates/ai-financial-assistant-for-small-business)
 
 **Financial Agent for SMB**
 

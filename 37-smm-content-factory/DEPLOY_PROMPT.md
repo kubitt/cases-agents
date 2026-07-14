@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "SMM Content Factory" to ASCN
 
-Copy the text below into Claude Code opened in this folder (35-smm-content-factory/).
+Copy the text below into Claude Code opened in this folder (37-smm-content-factory/).
 
 ---
 

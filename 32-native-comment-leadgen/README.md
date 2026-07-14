@@ -1,4 +1,6 @@
-# Native Comment Finder
+# Native Comment Finder (опубликовано в marketplace)
+
+> 📢 Опубликован в ASCN Marketplace: [RU](https://ascn.ai/ru/templates/native-comment-lead-generation-agent) · [EN](https://ascn.ai/en/templates/native-comment-lead-generation-agent)
 
 Finds fresh public posts where people describe a problem your product solves, writes a ready-to-paste native comment, and hands you a card: where to post + the text + a community-rules check. You post manually — no spam, no bans.
 

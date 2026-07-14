@@ -1,6 +1,6 @@
 # Claude Code prompt: deploy "Warm Lead Nurture" to ASCN
 
-Copy the text below into Claude Code opened in this folder (37-warm-lead-nurture/).
+Copy the text below into Claude Code opened in this folder (39-warm-lead-nurture/).
 
 ---
 
