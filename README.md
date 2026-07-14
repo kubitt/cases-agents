@@ -20,7 +20,7 @@
 
 ## Каталог агентов
 
-### Premium (01–18, 34) — полный пакет
+### Premium (01–18, 34–41) — полный пакет
 
 Каждый агент содержит: README, DEPLOY_PROMPT, INTEGRATIONS, AUTOMATIONS + workspace/ (IDENTITY, SOUL, ONBOARDING, skills/, knowledge/)
 
@@ -50,6 +50,8 @@
 | 37 | [Warm Lead Nurture](37-warm-lead-nurture/) | Тёплые лиды из таблицы → персональные follow-up через 2 дня → 3 касания |
 | 38 | [Inbound Request Router](38-inbound-request-router/) | Входящие из всех каналов → классификация (тип+срочность) → CRM + маршрутизация |
 | 39 | [Ad Creative Generator](39-ad-creative-generator/) | Бриф → 5 объявлений (крючки) + AI-картинки → история тестов |
+| 40 | [CRO Conversion Optimizer](40-cro-conversion-optimizer/) | Лендинг (URL или копия) → аудит конверсии + переписанные варианты + A/B-гипотезы по ICE; 100% натив, без ключей |
+| 41 | [Growth Experiment Engine](41-growth-experiment-engine/) | Идеи тестов → ICE-бэклог → дизайн эксперимента (размер выборки) → значимость z-тестом (скрипт) → недельный дайджест |
 
 ### Community (19–29) — базовый пакет
 
