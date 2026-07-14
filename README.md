@@ -20,7 +20,7 @@
 
 ## Каталог агентов
 
-Всего агентов: **43**. Опубликовано в маркетплейсе: **35** (папки 01–35). Не опубликовано: **8** (36–43).
+Всего агентов: **45**. Опубликовано в маркетплейсе: **35** (папки 01–35). Не опубликовано: **10** (36–45).
 
 ### Опубликованы в маркетплейсе (35)
 
@@ -62,7 +62,7 @@
 | 34 | [PPC Audit Agent](34-ppc-audit-agent-published/) | Your personal PPC analyst: audits ad accounts across Google, Meta, LinkedIn, and TikTok with 200+ automated… | [RU](https://ascn.ai/ru/templates/ai-ppc-audit-agent-google-meta-ads) · [EN](https://ascn.ai/en/templates/ai-ppc-audit-agent-google-meta-ads) |
 | 35 | [Google Maps Lead Hunter](35-gmaps-lead-hunter-published/) | Search Google Maps by your criteria — niche, location, rating, count — and get a ready contact list with… | [RU](https://ascn.ai/ru/templates/google-maps-lead-scraper-agent) · [EN](https://ascn.ai/en/templates/google-maps-lead-scraper-agent) |
 
-### Ещё в разработке / не опубликованы (8)
+### Ещё в разработке / не опубликованы (10)
 
 | # | Агент | Что делает |
 |---|---|---|
@@ -74,6 +74,8 @@
 | 41 | [Ad Creative Generator](41-ad-creative-generator/) | From your brief, produces a batch of ready ad variants — five texts on different hooks, each with its own… |
 | 42 | [CRO Conversion Optimizer](42-cro-conversion-optimizer/) | Give it a landing page URL or paste your copy, and it runs a conversion audit, rewrites the weak elements… |
 | 43 | [Growth Experiment Engine](43-growth-experiment-engine/) | Runs a disciplined growth-testing program: captures test ideas into an ICE-ranked backlog, designs the… |
+| 44 | [Personal Assistant](44-personal-assistant/) | AI chief of staff for email & calendar: triages the inbox, turns emails and meetings into tracked tasks, watches deadlines, sends a morning brief — drafts replies, never sends. |
+| 45 | [Messenger Concierge](45-messenger-concierge/) | 24/7 front desk in Telegram: answers customers, takes orders, books appointments, sends reminders — only from your facts, escalates the rest. |
 
 ## Структура папки агента
 
