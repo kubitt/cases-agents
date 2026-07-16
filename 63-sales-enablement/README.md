@@ -15,7 +15,7 @@ A sales-enablement hire or fractional consultant costs $2,000–6,000/mo; a Gong
 7. Weekly refresh: updates the battlecards and rolls the week's new objections into the Objection Playbook.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

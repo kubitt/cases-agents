@@ -14,7 +14,7 @@ Assembling a daily metrics report by hand — opening spreadsheets, copying numb
 6. Sends a morning summary — top movers, any threshold breaches, on-target count, and links to the files — to Telegram or ASCN chat.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, 3 skills, 2 knowledge files).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, 3 skills, 2 knowledge files).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

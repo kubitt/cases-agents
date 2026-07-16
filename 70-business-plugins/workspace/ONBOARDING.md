@@ -35,7 +35,7 @@ Ask: "Who reads these reports (you, a board, investors, the team), and how forma
 "Daily meeting prep on every weekday, or only your key days? And is a weekly brief Monday 08:00 plus a monthly review on the 1st right? Daily prep is the main credit cost (~22 runs/month); weekly and monthly are cheap." Save the choice for Step 9.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks using the cadence from Step 8: daily meeting prep (weekdays 08:00), weekly executive brief (Monday 08:00), monthly business review (1st, 08:00). Confirm each schedule before creating it.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks using the cadence from Step 8: daily meeting prep (weekdays 08:00), weekly executive brief (Monday 08:00), monthly business review (1st, 08:00). Confirm each schedule before creating it.
 
 ## Step 10. Test run (deliver value NOW)
 Fill the KPI Dashboard with the user's real current numbers for their KPIs, compute status and trend per skill kpi-tracking, and produce a short executive brief per skill report-prep. Offer to draft one strategy one-pager per skill plan-drafting. Ask what to adjust; write corrections into REPORTING_STYLE.md.

@@ -30,7 +30,7 @@ Ask: "Paste 2–3 of your own posts you're proud of (or describe your tone: form
 Default: 30 min. Note it is a speed-vs-credits tradeoff (Start plan = 10,000 credits/mo).
 
 ## Step 7. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: nightly draft prep (04:00), morning content brief (09:00), due-post reminder polling (every 30 min, 08:00–22:00), Friday review (17:00). Ask: "Morning brief at 09:00 and Friday review at 17:00 — OK, or other times?" For the nightly task explain: research and drafting run at night, so finished drafts are waiting for you by morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: nightly draft prep (04:00), morning content brief (09:00), due-post reminder polling (every 30 min, 08:00–22:00), Friday review (17:00). Ask: "Morning brief at 09:00 and Friday review at 17:00 — OK, or other times?" For the nightly task explain: research and drafting run at night, so finished drafts are waiting for you by morning.
 
 ## Step 8. Test run (deliver value NOW)
 Run trend-research on the user's real niche: find 2–3 fresh angles with sources. Draft 1 single post and 1 short thread per skill post-drafting in their voice, append to the queue as status=draft, and show the copy-paste text. Ask what to fix in tone — write the edits back into VOICE.md.

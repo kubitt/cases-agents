@@ -16,15 +16,15 @@ Do in order:
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (replace)
    - workspace/SOUL.md → /data/workspace/SOUL.md (replace)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (new)
-   - workspace/CRON_PLAYBOOK.md → /data/workspace/CRON_PLAYBOOK.md (new; the agent reads it when creating crons)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (new; the agent reads it when creating crons)
    - workspace/skills/metric-intake/SKILL.md → /data/workspace/skills/metric-intake/SKILL.md
    - workspace/skills/dashboard-build/SKILL.md → /data/workspace/skills/dashboard-build/SKILL.md
    - workspace/skills/trend-lookup/SKILL.md → /data/workspace/skills/trend-lookup/SKILL.md
    - workspace/knowledge/DASHBOARD_PROFILE.md → /data/workspace/knowledge/DASHBOARD_PROFILE.md
    - workspace/knowledge/METRIC_DEFINITIONS.md → /data/workspace/knowledge/METRIC_DEFINITIONS.md
-   Do NOT touch platform system files: AGENTS.md, USER.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, TOOLS.md, HEARTBEAT.md, rules/, files/.
+   Do NOT touch platform system files: AGENTS.md, USER.md, MEMORY_POLICY.md, INTEGRATIONS.md, CHANNELS.md, TOOLS.md, HEARTBEAT.md, rules/, files/.
 3. Secrets before first run: none — the native core requires NO API keys or tokens. Every source is native OAuth (Google Sheets, Drive, Docs, Gmail), built-in web search, or a value the user pastes; Python runs in the container. Do not create any secret. (Paid data connectors are optional and set up later only if the user asks.)
-4. Do NOT create automations yourself: the agent creates them during onboarding, reading workspace/CRON_PLAYBOOK.md (the morning build, and an optional midday refresh) — only if the user agrees.
+4. Do NOT create automations yourself: the agent creates them during onboarding, reading workspace/AUTOMATIONS.md (the morning build, and an optional midday refresh) — only if the user agrees.
 5. Verify yourself: list the transferred files and print the first 3 lines of each from the agent workspace.
 6. Remind me manually: on first dialog the agent will request Google Sheets (and optionally Drive/Docs/Gmail/Telegram) via OAuth buttons; no external key is needed for the native core.
 7. Send the agent the first message "Hi, let's set up" and confirm it starts the onboarding script (introduces itself, states ~10 minutes, asks the first question about which metrics to track).

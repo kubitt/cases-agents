@@ -33,7 +33,7 @@ Ask: "Want me to save dashboard.html and dashboard_snapshot.csv to a Google Driv
 "How often should I rebuild the dashboard? Once each morning is the default and cheapest. I can add a midday refresh (12:00 on weekdays) for freshness, or rebuild hourly during work hours — but hourly uses far more of your monthly credits (Start = 10,000 credits/mo). Which do you want?" Default: once each morning.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create the cron tasks the user chose: the Morning dashboard build (daily 08:00) and, if requested, the Midday refresh. Explain: the heavy read runs early so the summary is ready by morning. Ask: "08:00 daily — OK, or another time?"
+Read AUTOMATIONS.md (in this workspace) and create the cron tasks the user chose: the Morning dashboard build (daily 08:00) and, if requested, the Midday refresh. Explain: the heavy read runs early so the summary is ready by morning. Ask: "08:00 daily — OK, or another time?"
 
 ## Step 10. Build the first dashboard (deliver value NOW)
 Run skill dashboard-build on the metrics registered so far: read each value, compute deltas and status, render dashboard.html and dashboard_snapshot.csv, append the first rows to "Metrics History", and show the summary. Ask what to adjust (thresholds, order, labels) and write corrections back to knowledge/METRIC_DEFINITIONS.md.

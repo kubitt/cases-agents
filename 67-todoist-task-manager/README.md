@@ -14,7 +14,7 @@ Manual daily planning eats 15–20 minutes a day, and a dedicated planning app (
 6. Sends a Friday weekly review: what got done vs planned, stale tasks, and the top 3 priorities for next week.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

@@ -39,7 +39,7 @@ Ask: "Want to drop links from a Slack channel and have me research them into ide
 Ask: "How often should I check the Slack intake channel — every 30 min is the default; 15 for speed (more credits), 60 to economize? The overnight topic scan runs once a night regardless." Save the interval.
 
 ## Step 10. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: overnight idea scan (04:00 daily), morning pitch digest (weekdays 08:00), and — only if Slack was connected — Slack link intake (your chosen interval). Ask: "Overnight scan at 04:00 and digest at 08:00 on weekdays — OK, or other times?" Explain: heavy scanning runs at night, you get pitches by morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: overnight idea scan (04:00 daily), morning pitch digest (weekdays 08:00), and — only if Slack was connected — Slack link intake (your chosen interval). Ask: "Overnight scan at 04:00 and digest at 08:00 on weekdays — OK, or other times?" Explain: heavy scanning runs at night, you get pitches by morning.
 
 ## Step 11. Test run (deliver value now)
 Scout 3–5 fresh ideas per skill topic-scout on the real niche, log them to "Idea Backlog", and show the pitch digest. Then package the one the user picks per skill content-packager and send the Doc link. Ask what to adjust — write edits into PACKAGE_PLAYBOOK.md.

@@ -38,5 +38,5 @@
 - page_url: notion.so/second-brain/the-log
 
 ## Rules for this file
-- Column names here are the single source of truth — they must match IDENTITY, the skills, and CRON_PLAYBOOK exactly.
+- Column names here are the single source of truth — they must match IDENTITY, the skills, and AUTOMATIONS exactly.
 - Never invent columns per item; extra detail goes on the Notion page, not into new spreadsheet columns.

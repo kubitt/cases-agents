@@ -14,7 +14,7 @@ Dedicated personal-CRM apps (Dex, Clay, Monica) run $12–30/mo and still make y
 6. Every weekday morning, before your meetings, delivers a briefing on each external attendee: who they are, when you last spoke, what about, and any open thread to pick up.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

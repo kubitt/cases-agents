@@ -32,7 +32,7 @@ Ask: "Forward 2-3 emails you actually wrote to clients (or describe: formal or i
 "How fast should I react to replies? Every 30 min is the default; 15 min for speed (more credits on the Start plan's 10,000/mo); 60 min to economize."
 
 ## Step 8. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: night signal sweep (daily 04:00), morning batch delivery (weekdays 09:00), reply polling (every 30 min, 08:00-22:00), Friday analytics (17:00). Ask: "Night sweep at 04:00 and batch at 09:00 weekdays — OK, or other times?" For the night sweep explain: the heavy research runs while you sleep, and you get ready drafts by morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: night signal sweep (daily 04:00), morning batch delivery (weekdays 09:00), reply polling (every 30 min, 08:00-22:00), Friday analytics (17:00). Ask: "Night sweep at 04:00 and batch at 09:00 weekdays — OK, or other times?" For the night sweep explain: the heavy research runs while you sleep, and you get ready drafts by morning.
 
 ## Step 9. Test run (deliver value NOW)
 Ask for 3 target companies (name + a link to their posting, or a role + city and I'll find candidates by web search for your approval). For each: research per skill signal-research, show a short dossier with source_url, create an opener draft in Gmail per skill pitch-sequence, and send for approval. Ask what to adjust in tone — write the edits into knowledge/VOICE.md.

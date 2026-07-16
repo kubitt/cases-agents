@@ -30,7 +30,7 @@ Ask: "How should I bring old items back? Default: when I summarize something I s
 "I run two automations: nightly link processing at 02:00 (I read and summarize the day's saved links while you sleep — this is cheap, ~once a night) and the weekly review on your chosen day at 08:00. Nightly at 02:00 and review Monday 08:00 — good, or other times?" Explain: heavy reading runs at night so summaries are ready by morning.
 
 ## Step 8. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: nightly link processing (daily 02:00) and weekly review (weekly, chosen day 08:00). Confirm the schedules from Step 7 before creating.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: nightly link processing (daily 02:00) and weekly review (weekly, chosen day 08:00). Confirm the schedules from Step 7 before creating.
 
 ## Step 9. Test run (deliver value NOW)
 Ask the user to send 2–3 real things now — at least one link and one note. Run skill capture-note on each: classify, tag, title, add rows to "Memory Index", create Notion pages. For the link, run skill link-summarizer live and show the summary. Show the resulting index rows and ask what to adjust in tagging or summary length — write corrections to knowledge/BRAIN_PROFILE.md.

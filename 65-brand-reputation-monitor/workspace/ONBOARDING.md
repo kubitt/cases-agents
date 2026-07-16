@@ -27,7 +27,7 @@ Ask: "Where should I send digests and negative alerts — Telegram? (Channels �
 Ask: "How often should I scan for new mentions? Every 6 hours is the default balance. Hourly reacts faster to a bad review but uses more credits (Start plan = 10,000 credits/month); once a day is cheapest. Which fits?" Default: every 6 hours.
 
 ## Step 7. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: mention scan (at your chosen interval) and the weekly digest (Monday 08:00). Ask: "Weekly digest Monday 08:00 — OK, or another day/time?" Explain: scans run around the clock, but I only ping you between 08:00 and 23:00.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: mention scan (at your chosen interval) and the weekly digest (Monday 08:00). Ask: "Weekly digest Monday 08:00 — OK, or another day/time?" Explain: scans run around the clock, but I only ping you between 08:00 and 23:00.
 
 ## Step 8. Test run (deliver value NOW)
 Run skill mention-scan on your real sources right now, score the results per skill sentiment-scoring, write them into "Mention Log", and show a mini-digest: how many mentions found, the sentiment split, and any negatives with links. Ask what to adjust — wrong matches, missed sources, sentiment calls — and write corrections into BRAND_PROFILE.md and SOURCE_LIST.md.

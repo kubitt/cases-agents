@@ -15,7 +15,7 @@ Podcast production is the hidden time sink: research, outlines, show notes, and 
 7. Weekly nudges: Monday production planning digest and Friday topic/competitor watch, delivered to Telegram.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

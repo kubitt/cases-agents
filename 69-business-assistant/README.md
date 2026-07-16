@@ -15,7 +15,7 @@ Total cost: $29/mo for the core (native Google apps + web search, no external AP
 6. Runs a market scan on request or monthly: a 3-tier competitor read (direct / indirect / secondary) from public web pages, a short strengths-and-gaps view, and a "Market Scan — <topic>" Google Doc with sources.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

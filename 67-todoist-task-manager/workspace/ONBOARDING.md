@@ -29,7 +29,7 @@ Ask: "How many must-do tasks is a realistic day for you — a number, or a rough
 "Where should the daily plan and weekly review arrive — Telegram? (Channels → Telegram, 2 minutes.) And when may I notify you — default 08:00–23:00? Should a failed-run alert reach you any time, or in-window only?" Defaults: ASCN chat, 08:00–23:00, alerts in-window.
 
 ## Step 7. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: overnight plan prep (05:30 daily, silent), morning daily plan (08:00 daily), weekly review (Friday 17:00). Ask: "Morning plan at 08:00 every day — OK, or another time? The heavy prep runs overnight so it is ready when you wake."
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: overnight plan prep (05:30 daily, silent), morning daily plan (08:00 daily), weekly review (Friday 17:00). Ask: "Morning plan at 08:00 every day — OK, or another time? The heavy prep runs overnight so it is ready when you wake."
 
 ## Step 8. Test run (deliver value NOW)
 Ask the user to name 3 real tasks. Capture them per skill task-capture into the Task List, then build today's plan per skill daily-plan (using any calendar events) and deliver the digest. Ask what to adjust — write corrections into PRIORITY_RULES.md or TASK_SETUP.md.

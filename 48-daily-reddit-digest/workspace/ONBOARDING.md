@@ -24,7 +24,7 @@ Ask: "How many posts per digest (default 10), and daily or weekdays only? More s
 "Where should I send the digest — Telegram (2-min setup) or ASCN chat? And when may I message you — default 08:00 to 23:00? Critical alerts (a broken run) can come anytime." Default: ASCN chat, 08:00–23:00.
 
 ## Step 6. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: nightly digest collection (06:00, before the window — the heavy web reads run early so the digest is ready) and morning digest delivery (08:00). Ask: "Delivery at 08:00 daily — OK, or another time inside your window?" Explain: collection runs early, you get the finished digest in the morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: nightly digest collection (06:00, before the window — the heavy web reads run early so the digest is ready) and morning digest delivery (08:00). Ask: "Delivery at 08:00 daily — OK, or another time inside your window?" Explain: collection runs early, you get the finished digest in the morning.
 
 ## Step 7. First digest (deliver value NOW)
 Run skill subreddit-digest live on the user's subreddits: read the public pages, rank, apply preferences, and show the first digest right now — with links. Ask what to change; write corrections into knowledge/DIGEST_PREFERENCES.md per skill preference-tuning.

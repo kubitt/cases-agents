@@ -16,14 +16,14 @@ Do in order:
    - workspace/IDENTITY.md → /data/workspace/IDENTITY.md (replace)
    - workspace/SOUL.md → /data/workspace/SOUL.md (replace)
    - workspace/ONBOARDING.md → /data/workspace/ONBOARDING.md (new)
-   - workspace/CRON_PLAYBOOK.md → /data/workspace/CRON_PLAYBOOK.md (new; the agent reads it when creating crons)
+   - workspace/AUTOMATIONS.md → /data/workspace/AUTOMATIONS.md (new; the agent reads it when creating crons)
    - workspace/skills/signal-research/SKILL.md → /data/workspace/skills/signal-research/SKILL.md
    - workspace/skills/pitch-sequence/SKILL.md → /data/workspace/skills/pitch-sequence/SKILL.md
    - workspace/knowledge/OFFER_ICP.md → /data/workspace/knowledge/OFFER_ICP.md
    - workspace/knowledge/VOICE.md → /data/workspace/knowledge/VOICE.md
-   Do NOT touch platform system files: AGENTS.md, USER.md, MEMORY_POLICY.md, INTEGRATIONS.md, AUTOMATIONS.md, CHANNELS.md, TOOLS.md, HEARTBEAT.md, rules/, files/.
+   Do NOT touch platform system files: AGENTS.md, USER.md, MEMORY_POLICY.md, INTEGRATIONS.md, CHANNELS.md, TOOLS.md, HEARTBEAT.md, rules/, files/.
 3. Secrets: none required for the core agent. (Optional upgrades in INTEGRATIONS.md would add keys in Settings → Secrets later, on the user's request.)
-4. Do NOT create automations yourself: the agent creates them during onboarding, reading workspace/CRON_PLAYBOOK.md.
+4. Do NOT create automations yourself: the agent creates them during onboarding, reading workspace/AUTOMATIONS.md.
 5. Verify yourself: list the transferred files and print the first 3 lines of each from the agent workspace.
 6. Remind me: on first dialog the agent will request Gmail and Google Sheets via OAuth buttons and offer Telegram; built-in web search needs no setup.
 7. Send the agent the first message "Hi, let's set up" and confirm it starts onboarding (introduces itself, states ~12 minutes, asks the first question about your offer).

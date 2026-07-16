@@ -16,7 +16,7 @@ Qualitative X analytics-chat tools run $10–50/mo, and a freelance social analy
 8. Refuses fake-engagement, follower-buying, and astroturfing tactics, and never posts to X — it advises, you publish.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

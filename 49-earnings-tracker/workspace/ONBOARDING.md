@@ -29,7 +29,7 @@ Ask: "When may I notify you — default 08:00–23:00 your time? Should a critic
 Ask: "How timely do you want post-earnings summaries? Default: one check each morning at 08:00 — catches everything from the day before, lowest credits. Faster: add an evening run about 21:00 for same-day after-close reports, at more credits." Default: morning-only.
 
 ## Step 7. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: weekly earnings preview (Sunday 08:00) and daily earnings results check (08:00, Mon–Sat). Ask: "Weekly preview Sunday 08:00 and a daily results check at 08:00 — OK, or other times?" For each, explain: scans run at the scheduled time and you get results within the window.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: weekly earnings preview (Sunday 08:00) and daily earnings results check (08:00, Mon–Sat). Ask: "Weekly preview Sunday 08:00 and a daily results check at 08:00 — OK, or other times?" For each, explain: scans run at the scheduled time and you get results within the window.
 
 ## Step 8. Test run (deliver value NOW)
 Run skill earnings-calendar-scan on the real watchlist: show the next-week preview and log dates into "Earnings Log". Then pick one company that reported recently and run skill earnings-summary for a real, sourced summary. Ask what to adjust in emphasis or length — write edits into knowledge/SUMMARY_FORMAT.md.

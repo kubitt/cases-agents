@@ -33,7 +33,7 @@ Present the Google Sheets OAuth button; create "Build Queue" (columns: date_adde
 Ask: "How many nights per week should I build? A real code build is token-heavy, so nightly uses more of your 10,000 monthly credits; 3 nights (Mon/Wed/Fri) is a lighter default." Default: nightly. Save the choice for the cron.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create the two cron tasks from it: Overnight build (02:00, on the chosen nights) and Morning delivery (08:00). Explain: heavy building runs at night, you get the result in the morning. Ask: "02:00 build, 08:00 delivery — OK, or other times?"
+Read AUTOMATIONS.md (in this workspace) and create the two cron tasks from it: Overnight build (02:00, on the chosen nights) and Morning delivery (08:00). Explain: heavy building runs at night, you get the result in the morning. Ask: "02:00 build, 08:00 delivery — OK, or other times?"
 
 ## Step 10. Test run (deliver value NOW)
 Ask for one small real idea. Run skill build-intake to structure it into the "Build Queue". Then, so you see output today, build a tiny version live right now (not overnight): write and run the code, save the artifact to the Drive folder, and show the link with a short tested/untested note. Ask what to adjust and write it back to knowledge/BUILD_PREFERENCES.md.

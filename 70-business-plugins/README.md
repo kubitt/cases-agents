@@ -12,7 +12,7 @@ A fractional chief of staff or strategy/ops analyst costs $2,000–5,000/mo; eve
 4. Every Monday, delivers a weekly executive brief (RAG rollup, plan progress, up to 3 decisions needed); on the 1st, a deeper monthly business review with refreshed, cited benchmark context.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, 3 skills, 2 knowledge files).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, 3 skills, 2 knowledge files).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

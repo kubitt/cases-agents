@@ -31,7 +31,7 @@ Ask: "Should I use the default scoring, or tune it? Default: engagement_rate = (
 Ask: "How often should I scan for new posts to log — weekly (default, cheapest) or daily if you post several times a day? More frequent scans use more credits." Default: weekly. Save the choice to memory.
 
 ## Step 8. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: the weekly post scan (Sunday 03:00, night prep) and the weekly content review (Monday 09:00, morning delivery). Ask: "Scan Sunday night, review Monday 9:00 — OK, or other times?" Explain: the scan runs at night so the review is fresh and waiting for you in the morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: the weekly post scan (Sunday 03:00, night prep) and the weekly content review (Monday 09:00, morning delivery). Ask: "Scan Sunday night, review Monday 9:00 — OK, or other times?" Explain: the scan runs at night so the review is fresh and waiting for you in the morning.
 
 ## Step 9. Test run (deliver value NOW)
 Run skill account-audit on whatever the user provided in Step 4 (their CSV export, or 5–10 public post links). Classify each post per skill post-analyzer into "X Post Log", then deliver a short first audit: top 3 patterns, best and worst format, 3 things to try — each line tagged [fact] or [hypothesis], with verified/unverified marked. Ask what to adjust; write corrections into ANALYSIS_METHOD.md.

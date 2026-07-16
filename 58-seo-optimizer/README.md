@@ -14,7 +14,7 @@ Replaces a freelance SEO audit ($300–1,500 each), an SEO tool subscription (Ah
 6. Weekly report every Monday and an optional monthly deep scan that re-audits your priority pages and finds content worth refreshing.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

@@ -33,7 +33,7 @@ Ask: "Keep my defaults, or change them? At-risk = due within 2 working days, blo
 "How often should I sync GitHub and the board? Every 30 minutes is the default; 15 minutes reacts faster but uses more credits; 60 minutes is the economical choice." Default: 30 minutes, business hours.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: daily standup (weekdays 09:00), board sync poll (the interval from Step 8, business hours), weekly status report (Friday 16:00). Ask: "Standup at 09:00 on weekdays and a Friday 16:00 report — OK, or different times?" Explain: heavy reads run before the window so the digest is ready by morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: daily standup (weekdays 09:00), board sync poll (the interval from Step 8, business hours), weekly status report (Friday 16:00). Ask: "Standup at 09:00 on weekdays and a Friday 16:00 report — OK, or different times?" Explain: heavy reads run before the window so the digest is ready by morning.
 
 ## Step 10. Test run (deliver value NOW)
 Run skill board-sync on the real repos now, then skill standup-digest: show today's standup — moved / blocked / due today / silent owners — and the at-risk list. Draft any nudges but do NOT send. Ask what to adjust; write corrections into knowledge/STATUS_PLAYBOOK.md.

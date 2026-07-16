@@ -38,7 +38,7 @@ Present the Sheets OAuth button. Then create "Deal Room Tracker" with columns: a
 "Where do I send morning briefs and follow-up drafts — Telegram? And when may I notify you (default 08:00–23:00)? What time do you want the daily briefs — default 08:00?" Defaults: ASCN chat, 08:00–23:00, briefs at 08:00.
 
 ## Step 10. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: overnight brief prep (weekdays 05:00), morning brief delivery (weekdays 08:00), weekly enablement refresh (Friday 16:00). Explain: the heavy web research runs overnight, so briefs are ready the moment you wake up. Ask: "Briefs at 08:00 on weekdays — OK, or another time?"
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: overnight brief prep (weekdays 05:00), morning brief delivery (weekdays 08:00), weekly enablement refresh (Friday 16:00). Explain: the heavy web research runs overnight, so briefs are ready the moment you wake up. Ask: "Briefs at 08:00 on weekdays — OK, or another time?"
 
 ## Step 11. Test run (deliver value NOW)
 Pick one real upcoming meeting from the calendar (or ask the user to name an account). Run skill call-brief end to end: build the Call Brief Doc, show the summary, walk through the discovery questions and top objection. Ask what to sharpen — write corrections into knowledge/SALES_PROFILE.md.

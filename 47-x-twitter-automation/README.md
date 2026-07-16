@@ -15,7 +15,7 @@ A freelance X ghostwriter costs $500–1500/mo; content tools (Typefully, Hypefu
 7. Friday review: from the metrics you paste back, finds your best pillars, hooks, and post types and proposes next week's content mix.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

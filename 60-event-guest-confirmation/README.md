@@ -14,7 +14,7 @@ A part-time event assistant or coordinator runs $25–60/hr, and confirming a 40
 6. Gives you a live headcount on request and a final event-morning summary: confirmed, declined, no-response, total party size, and every dietary note in one place.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

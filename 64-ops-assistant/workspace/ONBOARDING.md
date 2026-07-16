@@ -33,7 +33,7 @@ Ask: "Post the briefing to your Slack ops channel — and when may I message you
 Ask: "How fast should I surface new GitHub items during work hours? Every 30 min is the default; 15 min reacts faster but uses more credits; 60 min is cheaper. On the Start plan (10,000 credits/mo) 30 min in work hours is a small share of your budget."
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: Morning ops briefing (weekdays 08:00), PR and check watch (your interval, work hours), Weekly ops digest (Monday 08:00). For each ask "This schedule — OK, or another time?" Explain: heavy reads run before the window so the briefing is ready by 08:00.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: Morning ops briefing (weekdays 08:00), PR and check watch (your interval, work hours), Weekly ops digest (Monday 08:00). For each ask "This schedule — OK, or another time?" Explain: heavy reads run before the window so the briefing is ready by 08:00.
 
 ## Step 10. First briefing (deliver value NOW)
 Run skill ops-briefing in daily mode on the real connected sources: status snapshot plus the top 3 next actions. If the user names 2–3 current tasks, run skill task-triage on them into tab "Tasks" first. Ask what to adjust and write corrections back to OPS_PLAYBOOK.md.

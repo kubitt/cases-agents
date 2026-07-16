@@ -38,7 +38,7 @@ Ask: "How should follow-ups feel, and how many days between touches? Default: te
 Ask: "How fast should I react to lead replies? Every 30 min is the default; 15 min for hot pipelines (more credits), 60 min to economize. On the Start plan (10,000 credits/mo) a 30-min poll is roughly 1,450 runs before any real work."
 
 ## Step 10. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: evening review (weekdays 18:00), morning outreach (weekdays 08:00), reply polling (every 30 min, 08:00–22:00). Ask: "Evening review 18:00 and morning batch 08:00 on weekdays — OK, or other times?" Explain: morning outreach is prepared early so drafts are waiting by 08:00.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: evening review (weekdays 18:00), morning outreach (weekdays 08:00), reply polling (every 30 min, 08:00–22:00). Ask: "Evening review 18:00 and morning batch 08:00 on weekdays — OK, or other times?" Explain: morning outreach is prepared early so drafts are waiting by 08:00.
 
 ## Step 11. Test run (deliver value NOW)
 Pick 3 real leads (from the user, or from recent sent mail). Draft the next follow-up for each per skill followup-writer, show them, and create Gmail drafts for approval. Ask what to adjust in tone — write edits into knowledge/VOICE.md.

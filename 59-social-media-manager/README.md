@@ -15,7 +15,7 @@ An in-house social media manager costs $600–1,500/mo; an agency retainer runs 
 7. Weekly plan-and-draft batch and a weekday queue digest keep the pipeline full and remind you what is ready to post today.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, 3 skills, 2 knowledge files).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, 3 skills, 2 knowledge files).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, what is free, and the optional paid upgrade.
 

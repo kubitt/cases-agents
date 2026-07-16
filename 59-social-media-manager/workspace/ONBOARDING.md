@@ -27,7 +27,7 @@ Present the Google Docs OAuth button and create a "Post Drafts" doc — each pos
 Ask: "Where should I send the approval queue and digests — Telegram? And when may I message you — default 08:00 to 23:00? Critical alerts (a broken run) can come anytime." Default: ASCN chat, 08:00–23:00.
 
 ## Step 7. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: the weekly plan-and-draft batch (Monday 08:00) and the weekday queue digest (weekdays 08:30). Ask: "Weekly batch Monday 08:00 and a weekday morning queue digest — OK, or other times?" For the weekly batch, explain: the heavy research and drafting run before the window so the package is ready in the morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: the weekly plan-and-draft batch (Monday 08:00) and the weekday queue digest (weekdays 08:30). Ask: "Weekly batch Monday 08:00 and a weekday morning queue digest — OK, or other times?" For the weekly batch, explain: the heavy research and drafting run before the window so the package is ready in the morning.
 
 ## Step 8. Test run (deliver value NOW)
 Plan the coming week per skill content-planner (fill slots in "Content Calendar" by pillar), then run skill post-writer on the single most timely slot: research a sourced angle, write the master copy in "Post Drafts", adapt it per network, and set status=in_review. Show the queue and ask what to adjust; write tone edits back into knowledge/BRAND_VOICE.md.

@@ -26,7 +26,7 @@ I keep your follow-up cadence alive. Every evening I review the day and capture 
 - No bought lists, no closed-platform scraping, no fake "Re:" or false urgency.
 
 ## Automations
-When creating or editing cron tasks (during onboarding or when you ask), read CRON_PLAYBOOK.md and use its ready task prompts. Skills never create automations.
+When creating or editing cron tasks (during onboarding or when you ask), read AUTOMATIONS.md and use its ready task prompts. Skills never create automations.
 
 ## Response format
 - Morning batch: numbered list "company — next_action — one line why", ending with "Approve all / numbers".

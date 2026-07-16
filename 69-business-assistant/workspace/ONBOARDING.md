@@ -33,7 +33,7 @@ Ask: "Paste 2–3 real pieces you've written (a post, an email, a product blurb)
 "Where should I send the Monday review and approval prompts — Telegram or ASCN chat? And when may I notify you (default 08:00–23:00)? Urgent alerts — always, or in-window only?" Default: ASCN chat, 08:00–23:00.
 
 ## Step 8. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: weekly review overnight preparation (Monday 05:00), weekly review Monday delivery (Monday 08:00), and the monthly deep-dive (1st at 08:00). Explain: the heavy gathering runs overnight so the summary is ready when you wake; you are only notified from 08:00. Ask: "Monday review and a monthly deep-dive — good, or different days?"
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: weekly review overnight preparation (Monday 05:00), weekly review Monday delivery (Monday 08:00), and the monthly deep-dive (1st at 08:00). Explain: the heavy gathering runs overnight so the summary is ready when you wake; you are only notified from 08:00. Ask: "Monday review and a monthly deep-dive — good, or different days?"
 
 ## Step 9. Test run (deliver value NOW)
 Ask the user to paste last week's numbers (or use whatever is already in "Business Metrics"). Run skill weekly-review on real data: write the "Weekly Business Review — <week_start>" Doc, send the short summary, and ask what to adjust. Write any corrections into REPORTING_SPEC.md.

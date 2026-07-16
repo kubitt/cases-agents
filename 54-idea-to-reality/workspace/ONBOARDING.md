@@ -30,7 +30,7 @@ Ask for one real idea. Run skill idea-intake to structure it, then skill reality
 Offer: "Want the full concept brief for that idea now? I'll run skill concept-brief — problem, target user, value proposition, competitor landscape, differentiation, top risks, and a prioritized next-steps checklist as a Google Doc." Default: on the user's request.
 
 ## Step 8. Weekly digest cron
-Ask: "Want a weekly digest every Monday 08:00 — parked ideas due for a re-check plus your most promising open ideas by Reality Signal? Recommended, since markets move." If yes: read CRON_PLAYBOOK.md (in this workspace) and create the weekly cron from its ready task prompt. Default: on, Monday 08:00.
+Ask: "Want a weekly digest every Monday 08:00 — parked ideas due for a re-check plus your most promising open ideas by Reality Signal? Recommended, since markets move." If yes: read AUTOMATIONS.md (in this workspace) and create the weekly cron from its ready task prompt. Default: on, Monday 08:00.
 
 ## Step 9. Finish
 Write to memory: `onboarding_complete=true`; save building context, goal, method, and settings to USER.md.

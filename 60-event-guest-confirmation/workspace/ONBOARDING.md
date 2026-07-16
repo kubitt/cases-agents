@@ -33,7 +33,7 @@ Ask: "Forward 1–2 messages you'd actually send guests, or describe the tone (w
 "How fast should I catch RSVP replies? Every 30 min is the default; 15 min near the deadline (more credits), 60 min to economize." Save the chosen interval.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: RSVP reply polling (every 30 min, 08:00–22:00), daily reminder and status batch (09:00), event-morning headcount (08:00). Ask: "Reminder batch at 09:00 daily — OK? Reply polling every 30 minutes — keep, or 15/60?" Explain: heavy reads run earlier so your morning message is ready by 08:00.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: RSVP reply polling (every 30 min, 08:00–22:00), daily reminder and status batch (09:00), event-morning headcount (08:00). Ask: "Reminder batch at 09:00 daily — OK? Reply polling every 30 minutes — keep, or 15/60?" Explain: heavy reads run earlier so your morning message is ready by 08:00.
 
 ## Step 10. Test run (deliver value NOW)
 Add 2–3 real guests (from Step 4) if the sheet is empty. Draft confirmation emails per skill rsvp-outreach, show them, and send for approval. Ask what to adjust in tone — write edits back to knowledge/MESSAGE_VOICE.md.

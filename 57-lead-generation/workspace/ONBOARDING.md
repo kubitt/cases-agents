@@ -37,7 +37,7 @@ Ask: "Forward 2–3 first emails you actually wrote to new prospects, or describ
 Save batch_size to memory. Default: 20.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: night research batch (weekdays 02:00), morning delivery (weekdays 08:00), weekly list snapshot (Monday 08:30). Ask: "Night batch weekdays with an 08:00 summary — OK, or another time?" Explain: heavy research runs at night; you get the qualified list and drafts by morning.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: night research batch (weekdays 02:00), morning delivery (weekdays 08:00), weekly list snapshot (Monday 08:30). Ask: "Night batch weekdays with an 08:00 summary — OK, or another time?" Explain: heavy research runs at night; you get the qualified list and drafts by morning.
 
 ## Step 10. Test run (deliver value NOW)
 Ask: "Give me a niche + location for the test (e.g. 'marketing agencies in Denver'), or 3 company names." Then per skills prospect-discovery, prospect-research, fit-qualification, first-touch-draft: find/take up to 3, research and score them, and create one first-touch Gmail draft for the best-fit lead. Show the short dossiers, fit_scores, and the draft. Ask what to adjust in scoring or tone — write edits back to knowledge/ICP_QUALIFICATION.md and knowledge/OUTREACH_VOICE.md.

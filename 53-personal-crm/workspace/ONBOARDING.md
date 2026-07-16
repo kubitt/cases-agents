@@ -38,7 +38,7 @@ Ask: "Forward or paste 2–3 short messages you'd actually send a friend or cont
 "How deep should the nightly scan look, and do you want the morning briefing every weekday or only on days with external meetings? Default: nightly sync + weekday briefing only when you actually have an outside meeting."
 
 ## Step 10. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: nightly relationship sync (02:00, silent), morning meeting prep (weekdays 08:00), weekly keep-in-touch digest (Monday 09:00). Ask: "Nightly sync at 02:00 and Monday digest at 09:00 — OK, or other times? Heavy scanning runs at night so you get results in the morning."
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: nightly relationship sync (02:00, silent), morning meeting prep (weekdays 08:00), weekly keep-in-touch digest (Monday 09:00). Ask: "Nightly sync at 02:00 and Monday digest at 09:00 — OK, or other times? Heavy scanning runs at night so you get results in the morning."
 
 ## Step 11. Test run (deliver value NOW)
 Pick one real contact from the log who is overdue and draft a check-in per skill checkin-drafter; and, if the user has a meeting in the next 2 days, produce a real briefing per skill meeting-prep. Show both, ask what to adjust, and write tone edits back into CHECKIN_VOICE.md.

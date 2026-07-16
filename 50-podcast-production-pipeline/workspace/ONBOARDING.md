@@ -32,7 +32,7 @@ Ask: "Which platforms do you publish to (Spotify / Apple / YouTube / other), and
 "Where should I send packages and weekly nudges — Telegram? And when may I notify you — default 08:00–23:00? Urgent alerts (broken access, failed run) — always or in-window only?" Defaults: ASCN chat, 08:00–23:00.
 
 ## Step 8. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: Monday production planning digest (Mon 08:00) and Friday topic/competitor watch (Fri 08:00). Ask: "Monday and Friday at 08:00 — OK, or other days/times?" Explain these are light weekly scans delivered in your morning window.
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: Monday production planning digest (Mon 08:00) and Friday topic/competitor watch (Fri 08:00). Ask: "Monday and Friday at 08:00 — OK, or other days/times?" Explain these are light weekly scans delivered in your morning window.
 
 ## Step 9. Test run (deliver value NOW)
 Ask for one real upcoming topic (and guest if any). Run skill episode-prep: web research + outline + script into a Google Doc "Episode NN — Prep", set the pipeline row to prep_ready. Show the summary and ask what to adjust; write tone corrections into VOICE_AND_STYLE.md.

@@ -33,7 +33,7 @@ Ask: "I score each opportunity as Reach x Intensity x Gap, each 1–5, and treat
 Ask: "How often should I mine your topics — weekly (the default) is a good balance; bi-weekly or monthly costs fewer credits; there's rarely enough new pain daily to justify it." Default: weekly.
 
 ## Step 9. Create automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: the weekly mining and digest (Monday 08:00) and, if the user wants it, the monthly re-score. Ask: "Weekly digest Monday 08:00 — OK, or another day? The heavy research runs overnight so it's ready by morning."
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: the weekly mining and digest (Monday 08:00) and, if the user wants it, the monthly re-score. Ask: "Weekly digest Monday 08:00 — OK, or another day? The heavy research runs overnight so it's ready by morning."
 
 ## Step 10. Test run (deliver value NOW)
 Pick the user's first topic. Run skill pain-signal-mining to collect real pain quotes with source URLs, then skill opportunity-ranking to cluster, count mentions, score, and rank. Show the ranked opportunities in the ledger and ask which one to turn into a brief; if they pick one, run skill opportunity-brief live. Write any corrections back to knowledge/RESEARCH_PROFILE.md and knowledge/SCORING_RUBRIC.md.

@@ -14,7 +14,7 @@ A company that just posted a well-paid vacancy is a lead with a confirmed budget
 6. Polls the mailbox for replies (every 30 min): classifies interested / question / objection / rejection / auto-reply, updates the pipeline, drafts a response. Friday: funnel analytics by role and opener type.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

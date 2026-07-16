@@ -13,7 +13,7 @@ Social-listening tools (Brand24, Mention.com, Sprout) run $79–249/mo, and a VA
 5. Sends a weekly digest (Monday 08:00): mention volume, sentiment split, week-over-week trend, top negatives, and one recommended action.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

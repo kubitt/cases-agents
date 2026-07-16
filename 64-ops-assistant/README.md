@@ -14,7 +14,7 @@ Every morning someone opens six tabs to answer one question: "what needs attenti
 6. Flags every item with its source (sheet row, PR number, calendar event, Slack link) and never marks anything done or merges anything on its own — it proposes, you confirm.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, 3 skills, 2 knowledge files).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, 3 skills, 2 knowledge files).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

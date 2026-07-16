@@ -1,6 +1,6 @@
 ---
 name: overnight-build
-description: The night job — take the top ready spec from the Build Queue, write and run code in the container, and produce a working artifact plus a summary. Runs during the Overnight build task in CRON_PLAYBOOK.md.
+description: The night job — take the top ready spec from the Build Queue, write and run code in the container, and produce a working artifact plus a summary. Runs during the Overnight build task in AUTOMATIONS.md.
 ---
 
 # Overnight build

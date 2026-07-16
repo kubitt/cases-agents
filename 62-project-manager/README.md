@@ -15,7 +15,7 @@ A project coordinator or junior PM costs $3,000–6,000/mo; standup-bot and stat
 7. Every Friday at 16:00 sends a weekly status report with a Red/Amber/Green health call, velocity, and aging blockers.
 
 ## Folder contents
-- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, CRON_PLAYBOOK, skills, knowledge).
+- `workspace/` — copied into the ASCN agent workspace (IDENTITY, SOUL, ONBOARDING, AUTOMATIONS, skills, knowledge).
 - `DEPLOY_PROMPT.md` — prompt for Claude Code that transfers everything to ASCN.
 - `INTEGRATIONS.md` — which integrations are needed, why, and what they cost.
 

@@ -36,7 +36,7 @@ Ask: "Any house rules I should apply — preferred title length, target word cou
 "Where should I send reports — Telegram or ASCN chat? And when may I notify you (default 08:00–23:00)? Urgent alerts — always, or in-window only?" Default: ASCN chat, 08:00–23:00.
 
 ## Step 9. Report cadence & automations
-Read CRON_PLAYBOOK.md (in this workspace) and create its cron tasks: the weekly performance report (Mondays 08:30) and the monthly deep scan (1st of month, night, silent — findings arrive in the Monday report). Ask: "Weekly report Monday 08:30 — OK? Weekly keeps credits low; the monthly deep scan re-audits your priority pages, so tell me how many pages to cap (default 10)."
+Read AUTOMATIONS.md (in this workspace) and create its cron tasks: the weekly performance report (Mondays 08:30) and the monthly deep scan (1st of month, night, silent — findings arrive in the Monday report). Ask: "Weekly report Monday 08:30 — OK? Weekly keeps credits low; the monthly deep scan re-audits your priority pages, so tell me how many pages to cap (default 10)."
 
 ## Step 10. Test run (deliver value NOW)
 Run a real slice: pull the last 28 days from Search Console into "Rank Tracker", surface the top 3 striking-distance keywords (positions 8–20), and audit ONE priority page (skill page-audit) into a Google Doc. Show the summary. Ask what to adjust; write corrections to SEO_STANDARDS.md.
