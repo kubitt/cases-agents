@@ -20,7 +20,7 @@
 
 ## Каталог агентов
 
-Всего агентов: **74**. Опубликовано в маркетплейсе: **38**. Не опубликовано / в разработке: **36**.
+Всего агентов: **76**. Опубликовано в маркетплейсе: **38**. Не опубликовано / в разработке: **38**.
 
 ### Опубликованы в маркетплейсе (38)
 
@@ -54,8 +54,8 @@
 | 26 | [AI-команда для создания контента](26-ai-content-writer-published/) | Из одной идеи — полный контент-пакет: статья, посты LinkedIn/X/Telegram, сохраняет в Google Docs. | [RU](https://ascn.ai/ru/templates/ai-content-writing-team-agent) · [EN](https://ascn.ai/en/templates/ai-content-writing-team-agent) |
 | 27 | [Репурпозинг контента по платформам](27-content-repurposer-published/) | Переупаковывает любой контент (YouTube, статья, текст) в посты для LinkedIn, X, Telegram. | [RU](https://ascn.ai/ru/templates/ai-content-repurposing-agent) · [EN](https://ascn.ai/en/templates/ai-content-repurposing-agent) |
 | 28 | [SEO-копирайтер](28-seo-copywriter-published/) | SEO-копирайтер: пишет статьи под ключевые слова, оптимизирует существующий контент, анализирует конкурен… | [RU](https://ascn.ai/ru/templates/ai-seo-copywriter-article-generator) · [EN](https://ascn.ai/en/templates/ai-seo-copywriter-article-generator) |
-| 29 | [29-market-radar-published](29-market-radar-published/) |  | — |
-| 30 | [30-ozon-analyst-published](30-ozon-analyst-published/) |  | — |
+| 29 | [Market Radar](29-market-radar-published/) | Мониторинг рынка и конкурентов, дайджест изменений. | [RU](https://ascn.ai/ru/templates/ai-market-competitor-intelligence-radar) · [EN](https://ascn.ai/en/templates/ai-market-competitor-intelligence-radar) |
+| 30 | [Ozon-аналитик / Ozon Analyst](30-ozon-analyst-published/) | Аналитика продаж и прибыли для селлера Ozon. | [RU](https://ascn.ai/ru/templates/ai-ozon-seller-analytics-profit-agent) · [EN](https://ascn.ai/en/templates/ai-ozon-seller-analytics-profit-agent) |
 | 31 | [Майнер болей аудитории / Pain Miner](31-pain-miner-published/) | Находит, какими словами реальные люди описывают боли, которые закрывает ваш продукт, — из Hacker News, R… | [RU](https://ascn.ai/ru/templates/ai-audience-pain-research-agent) · [EN](https://ascn.ai/en/templates/ai-audience-pain-research-agent) |
 | 32 | [Native Comment Finder](32-native-comment-leadgen-published/) | Finds fresh public posts where people describe a problem your product solves, writes a ready-to-paste na… | [RU](https://ascn.ai/ru/templates/native-comment-lead-generation-agent) · [EN](https://ascn.ai/en/templates/native-comment-lead-generation-agent) |
 | 33 | [Inbound Sales Pro — ИИ-продажник с полной воронкой](33-inbound-sales-pro-published/) | ИИ-агент входящих продаж: квалифицирует лидов, презентует оффер, обрабатывает возражения по фреймворку A… | [RU](https://ascn.ai/ru/templates/ai-inbound-sales-agent-telegram) · [EN](https://ascn.ai/en/templates/ai-inbound-sales-agent-telegram) |
@@ -65,7 +65,7 @@
 | 44 | [Personal Assistant](44-personal-assistant-published/) | Your AI chief of staff for email and meetings: triages the inbox, turns messages and calls into tracked… | — |
 | 45 | [Messenger Concierge](45-messenger-concierge-published/) | Your 24/7 front desk in Telegram: answers customers in seconds — questions, orders, bookings, reminders… | — |
 
-### Ещё в разработке / не опубликованы (36)
+### Ещё в разработке / не опубликованы (38)
 
 | # | Агент | Что делает |
 |---|---|---|
@@ -105,6 +105,8 @@
 | 72 | [LinkedIn Page Manager](72-linkedin-page-manager/) | Run a consistent, on-brand company LinkedIn Page without a full-time SMM or a monthly scheduler subscrip… |
 | 73 | [Viral Short-Form Writer](73-viral-shortform-writer/) | Turns any topic, link, image, or rough idea into scroll-stopping hooks, ready-to-post captions, and tigh… |
 | 74 | [Community Inbox Manager](74-community-inbox-manager/) | Answers pile up faster than you can reply — this agent triages every comment, message, and review you re… |
+| 75 | [YouTube Growth Analyst](75-youtube-growth-analyst/) | Tells you, in plain words, why your YouTube channel is or isn't growing — and exactly what to fix — for… |
+| 76 | [Pricing & Positioning Advisor](76-pricing-positioning-advisor/) | Decide what to charge, how to package your tiers, and how to position against competitors — with framewo… |
 
 ## Структура папки агента
 
